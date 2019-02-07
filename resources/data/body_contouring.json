@@ -1,0 +1,19 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/content/kaltlaser.jpg"
+    }
+  },
+  {
+    "type": "treatment",
+    "data": {
+      "headline": "Body Contouring - Exklusiv in Hamburg",
+      "content": "file:body_contouring.md",
+      "treatment_duration": "ca. 30 Minuten",
+      "treatment_result": "volle Wirkung nach 3 bis 14 Tagen",
+      "effect_duration": "3-6 Monate",
+      "downtime": null
+    }
+  }
+]

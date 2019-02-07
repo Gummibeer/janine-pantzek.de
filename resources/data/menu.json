@@ -1,0 +1,43 @@
+[
+  {
+    "link": "",
+    "text": "Startseite"
+  },
+  {
+    "link": "body-contouring",
+    "text": "Body Contouring"
+  },
+  {
+    "link": "angebot",
+    "text": "Angebot"
+  },
+  {
+    "text": "Methodik",
+    "childs": [
+      {
+        "link": "hyaluron",
+        "text": "Hyaluron"
+      },
+      {
+        "link": "botox",
+        "text": "Botox"
+      },
+      {
+        "link": "fadenlifting",
+        "text": "Fadenlifting"
+      },
+      {
+        "link": "liquidlifting",
+        "text": "Liquidlifting"
+      }
+    ]
+  },
+  {
+    "link": "dr-janine-pantzek",
+    "text": "Dr. Janine Pantzek"
+  },
+  {
+    "link": "kontakt",
+    "text": "Kontakt"
+  }
+]

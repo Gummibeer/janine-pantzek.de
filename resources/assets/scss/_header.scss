@@ -1,0 +1,23 @@
+#header {
+  h1 {
+    font-size: 2.5rem;
+
+    @include media-breakpoint-down(xs) {
+      font-size: 2rem;
+    }
+
+    small {
+      display: block;
+      color: $light;
+      font-size: 1.5rem;
+
+      @include media-breakpoint-between(xs, sm) {
+        font-size: 1.25rem;
+      }
+
+      @include media-breakpoint-down(xs) {
+        font-size: 1rem;
+      }
+    }
+  }
+}

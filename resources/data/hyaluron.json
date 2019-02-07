@@ -1,0 +1,19 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/content/frau_natuerlich_2.png"
+    }
+  },
+  {
+    "type": "treatment",
+    "data": {
+      "headline": "Hyaluron - Jungbrunnen für die Haut",
+      "content": "file:hyaluron.md",
+      "treatment_duration": "ca. 30 Minuten",
+      "treatment_result": "sofort",
+      "effect_duration": "6-12 Monate",
+      "downtime": null
+    }
+  }
+]

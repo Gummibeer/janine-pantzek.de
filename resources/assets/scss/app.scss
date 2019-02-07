@@ -1,0 +1,28 @@
+@import "variables";
+
+@import "font-awesome";
+@import "bootstrap";
+
+@import "navbar";
+
+@import "header";
+@import "content";
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#wrapper {
+  background: $white;
+
+  .bg-light {
+    background: $bg-light !important;
+  }
+}
+
+dl {
+  dd:last-of-type {
+    margin-bottom: 0;
+  }
+}

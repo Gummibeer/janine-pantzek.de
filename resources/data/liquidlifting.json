@@ -1,0 +1,19 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/content/frau_natuerlich_1.png"
+    }
+  },
+  {
+    "type": "treatment",
+    "data": {
+      "headline": "Liquidlifting - Der Feuchtigkeits-Booster für die Haut",
+      "content": "file:liquidlifting.md",
+      "treatment_duration": "? ? ?",
+      "treatment_result": "? ? ?",
+      "effect_duration": "? ? ?",
+      "downtime": "? ? ?"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/content/frau_natuerlich_3.png"
+    }
+  },
+  {
+    "type": "treatment",
+    "data": {
+      "headline": "Botox - Naturprodukt mit positiven Eigenschaften",
+      "content": "file:botox.md",
+      "treatment_duration": "ca. 30 Minuten",
+      "treatment_result": "volle Wirkung nach 3 bis 14 Tagen",
+      "effect_duration": "3-6 Monate",
+      "downtime": null
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/content/praxis_3.jpg"
+    }
+  },
+  {
+    "type": "markdown",
+    "data": {
+      "markdown": "## Kontakt ##"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+.navbar {
+  &.navbar-primary {
+    background: map-get($primary-palette, 400);
+
+    .navbar-toggler {
+      color: $light;
+      border-color: $light;
+      outline: none;
+      font-weight: 300;
+      padding: 0.75rem 1rem;
+      margin: 0.5rem 0;
+      text-transform: uppercase;
+      width: 100%;
+      font-size: 1rem;
+
+      &:not(.collapsed) {
+        color: $white;
+        border-color: $white;
+      }
+    }
+
+    .navbar-nav {
+      .nav-item {
+        &.active {
+          .nav-link {
+            color: $white;
+            background: $primary;
+
+            @include hover-focus {
+              color: $white;
+              background: $primary;
+            }
+          }
+        }
+
+        .nav-link {
+          color: $light;
+
+          @include hover-focus {
+            color: $white;
+            background: map-get($primary-palette, 300);
+          }
+        }
+
+        &.dropdown {
+          &.show,
+          &:hover {
+            .nav-link {
+              & ~ .dropdown-menu {
+                display: block;
+              }
+
+              &:after {
+                border-top: 0;
+                border-bottom: .3em solid;
+              }
+            }
+          }
+
+          .dropdown-menu {
+            margin: 0;
+            padding: 0;
+            border: none;
+
+            a.dropdown-item {
+              padding: .5rem 1.5rem;
+              background: map-get($primary-palette, 400);
+              color: $light;
+
+              &.active {
+                color: $white;
+                background: $primary;
+              }
+
+              @include hover-focus {
+                color: $white;
+                background: map-get($primary-palette, 300);
+              }
+            }
+          }
+        }
+      }
+    }
+
+    &.navbar-expand-md {
+      padding: 0;
+
+      @include media-breakpoint-down(md) {
+        padding: 0 1.5rem;
+      }
+
+      @include media-breakpoint-down(md) {
+        .navbar-collapse {
+          margin: 0 -1.5rem;
+        }
+      }
+
+      .navbar-nav {
+        .nav-item {
+          .nav-link {
+            padding: 0.5rem 1.5rem;
+          }
+
+          @include media-breakpoint-down(md) {
+            &.dropdown {
+              .dropdown-menu {
+                .dropdown-item {
+                  padding: .5rem 3rem;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
