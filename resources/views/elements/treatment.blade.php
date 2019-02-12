@@ -2,18 +2,23 @@
     <div class="text-wrapper">
         <h2 class="mb-4">{{ $headline }}</h2>
         <div class="infobox">
-            <dl>
-                <dt>Behandlungsdauer</dt>
-                <dd>{{ $treatment_duration }}</dd>
-
-                <dt>Behandlungserfolg</dt>
-                <dd>{{ $treatment_result }}</dd>
-
-                <dt>Wirkungsdauer</dt>
-                <dd>{{ $effect_duration }}</dd>
-
-                <dt>Downtime</dt>
-                <dd>{{ $downtime ?? 'keine' }}</dd>
+            <dl class="row">
+                <div class="col-sm-6 col-lg-3">
+                    <dt>Behandlungsdauer</dt>
+                    <dd>{{ $treatment_duration }}</dd>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <dt>Behandlungserfolg</dt>
+                    <dd>{{ $treatment_result }}</dd>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <dt>Wirkungsdauer</dt>
+                    <dd>{{ $effect_duration }}</dd>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <dt>Downtime</dt>
+                    <dd>{{ $downtime ?? 'keine' }}</dd>
+                </div>
             </dl>
         </div>
         <div class="clearfix">

@@ -36,19 +36,12 @@
     }
 
     .infobox {
-      padding: 1.5rem;
+      padding: 1.5rem 0.75rem;
       margin-bottom: 1.5rem;
       background: $bg-light;
 
-      @include media-breakpoint-up(md) {
-        float: left;
-        margin-right: 1.5rem;
-      }
-
-      dl {
-        @include media-breakpoint-up(md) {
-          width: 15rem;
-        }
+      [class*=col-] {
+        padding: 0 0.75rem;
       }
     }
 

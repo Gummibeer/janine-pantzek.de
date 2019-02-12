@@ -1,5 +1,5 @@
-<header id="header" class="bg-primary">
-    <h1 class="text-center m-0 py-2 text-white">
+<header id="header">
+    <h1>
         Dr. Janine Pantzek
         <small>Medical&nbsp;Institut für Schönheit und Health&nbsp;Care</small>
     </h1>

@@ -7,7 +7,7 @@
                     <div class="col-6 px-4">
                         <p>{{ $treatment['text'] }}</p>
                         @foreach($treatment['buttons'] as $button)
-                            <a href="{{ $button['link'] }}" class="btn btn-block btn-outline-primary btn-sm">{{ $button['text'] }}</a>
+                            <a href="{{ $button['link'] }}" class="btn btn-block btn-outline-secondary btn-sm">{{ $button['text'] }}</a>
                         @endforeach
                     </div>
                     <div class="col-6 px-4">

@@ -10,7 +10,7 @@ Deutschland
 Tel: +49  40 41 53 70 116  
 Fax: +49 40 65 05 63 74  
 Handy: +49 177 27 72 033  
-E-Mail: info@janine-pantzek.com
+E-Mail: [info@janine-pantzek.com](mailto:info@janine-pantzek.com)
 
 **Umsatzsteuer-ID:**   
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE193023061
@@ -20,7 +20,11 @@ Dr. med. Janine Pantzek-Tierling
 St. Benedictstraße 15  
 20149 Hamburg
 
-**Technische Konzeption, Design & Programmierung:**  
+**Konzeption & Design:**    
+Carola Born  
+[carolaborn@cargocollective.com](mailto:carolaborn@cargocollective.com)
+
+**Technische Konzeption & Programmierung:**  
 Gummibeer (Tom Witkowski)  
 [https://gummibeer.de](https://gummibeer.de)
 

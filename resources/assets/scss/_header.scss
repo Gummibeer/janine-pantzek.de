@@ -1,6 +1,12 @@
 #header {
+  background: $primary;
+
   h1 {
     font-size: 2.5rem;
+    margin: 0;
+    padding: 0.5rem 0;
+    color: color-yiq($primary, $black, $white);
+    text-align: center;
 
     @include media-breakpoint-down(xs) {
       font-size: 2rem;
@@ -8,7 +14,7 @@
 
     small {
       display: block;
-      color: $light;
+      color: color-yiq($primary);
       font-size: 1.5rem;
 
       @include media-breakpoint-between(xs, sm) {

@@ -4,7 +4,7 @@
     "data": {
       "treatments": [
         {
-          "headline": "Angebot #1",
+          "headline": "Faltenkorrektur",
           "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
           "duration": "? ? ?",
           "result": "? ? ?",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "headline": "Angebot #2",
+          "headline": "Lippenkorrektur",
           "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
           "duration": "? ? ?",
           "result": "? ? ?",
@@ -40,21 +40,7 @@
           ]
         },
         {
-          "headline": "Angebot #3",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-          "duration": "? ? ?",
-          "result": "? ? ?",
-          "effect": "? ? ?",
-          "downtime": "? ? ?",
-          "buttons": [
-            {
-              "link": "body-contouring",
-              "text": "Kaltlaser"
-            }
-          ]
-        },
-        {
-          "headline": "Angebot #4",
+          "headline": "Liquidlifting",
           "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
           "duration": "? ? ?",
           "result": "? ? ?",
@@ -68,35 +54,7 @@
           ]
         },
         {
-          "headline": "Angebot #5",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-          "duration": "? ? ?",
-          "result": "? ? ?",
-          "effect": "? ? ?",
-          "downtime": "? ? ?",
-          "buttons": [
-            {
-              "link": "body-contouring",
-              "text": "Kaltlaser"
-            }
-          ]
-        },
-        {
-          "headline": "Angebot #6",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
-          "duration": "? ? ?",
-          "result": "? ? ?",
-          "effect": "? ? ?",
-          "downtime": "? ? ?",
-          "buttons": [
-            {
-              "link": "liquidlifting",
-              "text": "Liquidlifting"
-            }
-          ]
-        },
-        {
-          "headline": "Angebot #7",
+          "headline": "Fadenlifting",
           "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
           "duration": "? ? ?",
           "result": "? ? ?",
@@ -110,7 +68,7 @@
           ]
         },
         {
-          "headline": "Angebot #8",
+          "headline": "Gesichtskonturierung",
           "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
           "duration": "? ? ?",
           "result": "? ? ?",
@@ -118,8 +76,104 @@
           "downtime": "? ? ?",
           "buttons": [
             {
-              "link": "liquidlifting",
-              "text": "Liquidlifting"
+              "link": "hyaluron",
+              "text": "Hyaluron"
+            },
+            {
+              "link": "botox",
+              "text": "Botox"
+            }
+          ]
+        },
+        {
+          "headline": "Lifting to go",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "hyaluron",
+              "text": "Hyaluron"
+            },
+            {
+              "link": "botox",
+              "text": "Botox"
+            }
+          ]
+        },
+        {
+          "headline": "Glow to go",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "hyaluron",
+              "text": "Hyaluron"
+            },
+            {
+              "link": "botox",
+              "text": "Botox"
+            }
+          ]
+        },
+        {
+          "headline": "Nasenkorrektur ohne Operation",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "hyaluron",
+              "text": "Hyaluron"
+            }
+          ]
+        },
+        {
+          "headline": "Handverjüngung",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "hyaluron",
+              "text": "Hyaluron"
+            }
+          ]
+        },
+        {
+          "headline": "Infusionstherapie \"Drips\"",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "infusionstherapie",
+              "text": "Infusionstherapie"
+            }
+          ]
+        },
+        {
+          "headline": "Hyperdriose",
+          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "duration": "? ? ?",
+          "result": "? ? ?",
+          "effect": "? ? ?",
+          "downtime": "? ? ?",
+          "buttons": [
+            {
+              "link": "botox",
+              "text": "Botox"
             }
           ]
         }

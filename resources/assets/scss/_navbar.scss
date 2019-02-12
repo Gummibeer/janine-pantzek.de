@@ -3,8 +3,8 @@
     background: map-get($primary-palette, 400);
 
     .navbar-toggler {
-      color: $light;
-      border-color: $light;
+      color: color-yiq(map-get($primary-palette, 400));
+      border-color: color-yiq(map-get($primary-palette, 400));
       outline: none;
       font-weight: 300;
       padding: 0.75rem 1rem;
@@ -14,8 +14,8 @@
       font-size: 1rem;
 
       &:not(.collapsed) {
-        color: $white;
-        border-color: $white;
+        color: color-yiq(map-get($primary-palette, 400), $black, $white);
+        border-color: color-yiq(map-get($primary-palette, 400), $black, $white);
       }
     }
 
@@ -23,21 +23,21 @@
       .nav-item {
         &.active {
           .nav-link {
-            color: $white;
+            color: color-yiq($primary, $black, $white);
             background: $primary;
 
             @include hover-focus {
-              color: $white;
+              color: color-yiq($primary, $black, $white);
               background: $primary;
             }
           }
         }
 
         .nav-link {
-          color: $light;
+          color: color-yiq($primary);
 
           @include hover-focus {
-            color: $white;
+            color: color-yiq(map-get($primary-palette, 300), $black, $white);
             background: map-get($primary-palette, 300);
           }
         }
@@ -65,15 +65,15 @@
             a.dropdown-item {
               padding: .5rem 1.5rem;
               background: map-get($primary-palette, 400);
-              color: $light;
+              color: color-yiq(map-get($primary-palette, 400));
 
               &.active {
-                color: $white;
+                color: color-yiq($primary, $black, $white);
                 background: $primary;
               }
 
               @include hover-focus {
-                color: $white;
+                color: color-yiq(map-get($primary-palette, 300), $black, $white);
                 background: map-get($primary-palette, 300);
               }
             }
