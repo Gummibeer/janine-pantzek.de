@@ -1,0 +1,139 @@
+[
+  {
+    "type": "banner",
+    "data": {
+      "image": "img/banner/infusionstherapie.jpg"
+    }
+  },
+  {
+    "type": "treatment",
+    "data": {
+      "headline": "Infusionstherapie - Extra-Drips für mehr Wellbeing",
+      "content": "file:infusionstherapie.md",
+      "treatment_duration": "ca. 15 Minuten",
+      "treatment_result": "sofort",
+      "effect_duration": "? ? ?",
+      "downtime": null
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Energy Drip",
+      "usage": [
+        "für mehr körperliche Energie und Ausdauer",
+        "bei hoher Muskelbeanspruchung",
+        "zur Steigerung der Konzentration",
+        "zur Verbesserung des Schlafes"
+      ],
+      "ingredients": [
+        "B-Vitamine",
+        "Taurin",
+        "Carnithin"
+      ],
+      "ingredients_plus": [
+        "Magnesium",
+        "MT5"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Health Drip",
+      "usage": [
+        "bei einem geschwächten Immunsystem",
+        "zur Vorbeugung von Erkältungsinfekten",
+        "bei akuter Grippe oder anderen Viruserkrankung",
+        "zur Stärkung des Immunabwehr vor einer Reise"
+      ],
+      "ingredients": [
+        "hochdosiertes Vitamin C",
+        "Zink",
+        "Lysin"
+      ],
+      "ingredients_plus": [
+        "Vitmain B-Complex",
+        "Methyl B12",
+        "Calcium",
+        "Magnesium",
+        "MTE",
+        "B6"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Skinny Drip",
+      "usage": [
+        "zur erhöhten Fettverbrennung",
+        "zur Unterstützung von Gewichtsverlust",
+        "zur Reduktion von Fetteinlagerungen"
+      ],
+      "ingredients": [
+        "MIC",
+        "L-Carnithin"
+      ],
+      "ingredients_plus": [
+        "Vitamin C",
+        "B-Complex",
+        "Pyridoxine",
+        "Dexpantherol",
+        "MTE-5",
+        "Taurin"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Detox Drip",
+      "usage": [
+        "für die Reinigung und Entgiftung des Körpers",
+        "zur Unterstützung einer Nahrungsumstellung",
+        "für mehr Power & Body Balance"
+      ],
+      "ingredients": [
+        "Vitamin C",
+        "Selen",
+        "Glutathion"
+      ],
+      "ingredients_plus": [
+        "Methyl B12",
+        "B-Complex 100",
+        "Magnesium",
+        "Calcium",
+        "Taurin",
+        "hydration fluids",
+        "multi trace element"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Relax your Mind",
+      "usage": [
+        "bei stressbedingter Müdigkeit",
+        "bei Unruhe und innerer Anspannung",
+        "bei Schlafstörungen",
+        "bei Depressionen oder Angstzuständen"
+      ],
+      "ingredients": [
+        "Procaine",
+        "Zink",
+        "2x Magnesium",
+        "Glycin",
+        "5x Taurin"
+      ],
+      "ingredients_plus": [
+        "Vitmain C",
+        "Calcium Gluconat",
+        "Vitmain B-Complex",
+        "B5",
+        "MTE-5"
+      ]
+    }
+  }
+]

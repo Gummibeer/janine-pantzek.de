@@ -18,7 +18,7 @@
       "direction": "ltr",
       "headline": "Mehr Lebensqualität für Sie",
       "text": "Mein persönliches Ziel ist es, dass Sie sich jeden Morgen gern im Spiegel anschauen. Sie sollen sich attraktiv, gesund und fit fühlen – egal wie alt Sie sind. Ich wende seit über 13 Jahren Methoden zur sanften Behandlung und Korrektur von Alterserscheinungen ohne operativen Eingriff an (sog. \"non-surgical procedures\"). Neben den ästhetischen Maßnahmen umfasst mein Angebot auch ein \"Body Contouring\"-Programm mit modernster Lasertechnik, exklusiv bei uns und eine individualisierte Infusionstherapie.",
-      "image": "img/content/frau_natuerlich_1.png",
+      "image": "img/content/body_contouring.jpg",
       "link": "/body-contouring",
       "button_text": "Body Contouring"
     }
@@ -38,9 +38,10 @@
     "type": "image_text",
     "data": {
       "direction": "ltr",
+      "bg_position": "top",
       "headline": "Smart Aging statt Altersbekämpfung",
       "text": "Sich gegen jegliche Form des Alterns zu wehren (wie der Begriff \"Anti-Aging\" suggeriert), kann auf Dauer frustrierend sein. Sinnvoller und befriedigender ist es, die Art der persönlichen Alterserscheinungen zu beeinflussen (\"Smart Aging\"). Durch den gezielten Einsatz von biologischen Füllsubstanzen wie z.B. Hyaluronsäure und Botulinumtoxin A (Botox) sowie Fadentechniken, kann der degenerative Alterungsprozess wirksam und mit sichtbarem Ergebnis verzögert werden.",
-      "image": "img/content/frau_natuerlich_2.png",
+      "image": "img/content/smart_aging.jpg",
       "link": "/angebot",
       "button_text": "Angebot"
     }

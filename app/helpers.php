@@ -69,6 +69,9 @@ if(!function_exists('pages')) {
             'liquidlifting' => [
                 'data' => 'liquidlifting',
             ],
+            'infusionstherapie' => [
+                'data' => 'infusionstherapie',
+            ],
             'dr-janine-pantzek' => [
                 'data' => 'about',
                 'title' => 'über Dr. Janine Pantzek',

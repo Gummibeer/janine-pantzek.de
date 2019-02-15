@@ -1,0 +1,7 @@
+Sie wünschen sich mehr Ausgeglichenheit und Leistungsfähigkeit im Job? Sie möchten Ihren Körper entgiften, Muskeln aufbauen und eine möglichst strahlende, straffe Haut? Sie wollen Müdigkeit und Stress entgegenwirken, Infektionskrankheiten vorbeugen – wissen aber nicht, wie und wann? Neben Arbeit, Familie, Haushalt und den vielen anderen Anforderungen des Alltags haben wir eben nicht immer ausreichend Zeit und Energie, uns optimal um unsere Ernährung, Bewegung und Entspannung zu kümmern. 
+
+In meiner Praxis biete ich deshalb Extra-Drips an – hochqualitative Infusionen, die Vitamine, Aminosäuren, Mineralstoffe und Antioxidantien direkt in die Blutbahn befördern. Die individuell auf den Patienten abgestimmte Vitamininfusion gelangt tröpfelnd („to drip“) über die Vene in den Blutkreislauf und muss nicht erst noch den Magen-Darm-Trakt passieren. Daher wirken Drips schneller und effektiver als jede andere Gabe von Power-Cocktails, die wir über Nahrungsergänzungsmittel in Pulver-, Kapsel- oder Tablettenform zu uns nehmen können. Hier kommen die Inhaltsstoffe ohne Umwege direkt ins Blut und der Körper profitiert zusätzlich von der Flüssigkeitszufuhr. 
+
+### Ihr Check für höchste Qualität
+
+Nach einer Erstanamnese stelle ich eine auf Ihre Bedürfnisse maßgeschneiderte Infusionstherapie zusammen. Die Inhaltsstoffe unterliegen dabei strengsten Kontrollen, die Wirkstoffkombinationen sind von höchster Qualität. Dieses ist deshalb besonders wichtig, weil es gerade bei der Zusammensetzung von Vitamen und Nährstoffen große Qualitätsunterschiede gibt. 
