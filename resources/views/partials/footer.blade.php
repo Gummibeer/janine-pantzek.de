@@ -2,7 +2,6 @@
     <div class="px-4 py-2 clearfix">
         <div class="float-left">
             &copy; {{ date('Y') }} Dr. med. Janine Pantzek; all rights reserved.
-            made by <a href="https://gummibeer.de">Gummibeer</a>
         </div>
         <div class="float-right">
             <ul class="list-inline m-0">

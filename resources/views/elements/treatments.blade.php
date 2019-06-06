@@ -6,17 +6,11 @@
                 <div class="row">
                     <div class="col-6 px-4">
                         <p>{{ $treatment['text'] }}</p>
-                        @foreach($treatment['buttons'] as $button)
-                            <a href="{{ $button['link'] }}" class="btn btn-block btn-outline-secondary btn-sm">{{ $button['text'] }}</a>
-                        @endforeach
                     </div>
                     <div class="col-6 px-4">
                         <dl>
                             <dt>Behandlungsdauer</dt>
                             <dd>{{ $treatment['duration'] }}</dd>
-
-                            <dt>Behandlungserfolg</dt>
-                            <dd>{{ $treatment['result'] }}</dd>
 
                             <dt>Wirkungsdauer</dt>
                             <dd>{{ $treatment['effect'] }}</dd>
@@ -25,6 +19,11 @@
                             <dd>{{ $treatment['downtime'] ?? 'keine' }}</dd>
                         </dl>
                     </div>
+                    @foreach($treatment['buttons'] as $button)
+                        <div class="col-6 px-4">
+                            <a href="{{ $button['link'] }}" class="btn btn-block btn-outline-secondary btn-sm">{{ $button['text'] }}</a>
+                        </div>
+                    @endforeach
                 </div>
             </div>
             @if($loop->iteration % 2 == 0)
