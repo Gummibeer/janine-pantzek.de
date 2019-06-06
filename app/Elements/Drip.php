@@ -8,14 +8,18 @@ class Drip extends Element
 
     protected $required = [
         'headline',
-        'usage',
+        'content',
         'ingredients',
     ];
 
     protected $types = [
         'headline' => 'string',
-        'usage' => 'string[]',
+        'content' => 'string',
         'ingredients' => 'string[]',
-        'ingredients_plus' => 'string[]',
+    ];
+
+    protected $normalizers = [
+        'content' => 'file',
+        'ingredients' => 'sort',
     ];
 }

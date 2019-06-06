@@ -2,7 +2,7 @@
   {
     "type": "banner",
     "data": {
-      "image": "img/content/praxis_1.jpg"
+      "image": "img/banner/praxis_1.min.jpg"
     }
   },
   {
@@ -17,8 +17,8 @@
     "data": {
       "direction": "ltr",
       "headline": "Mehr Lebensqualität für Sie",
-      "text": "Mein persönliches Ziel ist es, dass Sie sich jeden Morgen gern im Spiegel anschauen. Sie sollen sich attraktiv, gesund und fit fühlen – egal wie alt Sie sind. Ich wende seit über 13 Jahren Methoden zur sanften Behandlung und Korrektur von Alterserscheinungen ohne operativen Eingriff an (sog. \"non-surgical procedures\"). Neben den ästhetischen Maßnahmen umfasst mein Angebot auch ein \"Body Contouring\"-Programm mit modernster Lasertechnik, exklusiv bei uns und eine individualisierte Infusionstherapie.",
-      "image": "img/content/body_contouring.jpg",
+      "text": "Mein persönliches Ziel ist es, dass Sie sich jeden Morgen gern im Spiegel anschauen. Sie sollen sich attraktiv, gesund und fit fühlen – egal wie alt Sie sind.\nIch wende seit über 13 Jahren Methoden zur sanften Behandlung und Korrektur von Alterserscheinungen ohne operative Eingriffe an (sog. „non-surgical procedures“).\nNeben den ästhetischen Maßnahmen biete ich ein umfangreiches „Body Contouring“-Programm mit modernster Technik. Als erste und einzige Praxis in Hamburg setzen wir dabei einen sanften Low-Level-Light-Laser ein, der in einem natürlichen Prozess die Fettzellen in den klassischen Problemzonen schrumpfen lässt. Es handelt sich dabei um das einzige von der amerikanischen Gesundheitsbehörde zugelassene Gerät, dessen Wirksamkeit in zahlreichen Studien nachgewiesen wurde.",
+      "image": "img/content/body_contouring.min.jpg",
       "link": "/body-contouring",
       "button_text": "Body Contouring"
     }
@@ -28,8 +28,8 @@
     "data": {
       "direction": "rtl",
       "headline": "Qualität & Expertise",
-      "text": "Mir ist es besonders wichtig, dass bei jedem Eingriff das natürliche Erscheinungsbild meiner Patienten erhalten bleibt. Ich möchte die individuelle Gesichtskontur bestmöglich unterstreichen, statt ein \"maskenhaftes\" Gesicht zu erschaffen. Dafür verwende ich ausschließlich Materialien und Substanzen höchster Qualität. Ich arbeite nach den MD Codes von Dr. Mauricio de Maio, einem international renommierten plastischen Chirurgen aus Brasilien. \n\nMein Wunsch und Ziel ist es, auch Ihren Gesichtsausdruck hin zu einer positiven, femininen und rundherum attraktiven Ausstrahlung zu verändern. Dabei garantiert meine Erfahrung als Ärztin, mit jahrelanger Expertise im Bereich minimal-invasiver Operationen, Behandlungen auf höchstem Niveau.",
-      "image": "img/content/praxis_2.jpg",
+      "text": "Mein Wunsch und Ziel ist es, Ihnen zu einem positiven, frischen Gesichtsausdruck zu verhelfen und damit zu einer rundherum attraktiven Ausstrahlung.\nDabei garantiert meine Erfahrung als Ärztin mit jahrelanger Erfahrung im Bereich minimal-invasiver Operationen Behandlungen auf höchstem Niveau.  ",
+      "image": "img/content/praxis_2.min.jpg",
       "link": "/dr-janine-pantzek",
       "button_text": "Dr. Janine Pantzek"
     }
@@ -41,7 +41,7 @@
       "bg_position": "top",
       "headline": "Smart Aging statt Altersbekämpfung",
       "text": "Sich gegen jegliche Form des Alterns zu wehren (wie der Begriff \"Anti-Aging\" suggeriert), kann auf Dauer frustrierend sein. Sinnvoller und befriedigender ist es, die Art der persönlichen Alterserscheinungen zu beeinflussen (\"Smart Aging\"). Durch den gezielten Einsatz von biologischen Füllsubstanzen wie z.B. Hyaluronsäure und Botulinumtoxin A (Botox) sowie Fadentechniken, kann der degenerative Alterungsprozess wirksam und mit sichtbarem Ergebnis verzögert werden.",
-      "image": "img/content/smart_aging.jpg",
+      "image": "img/content/smart_aging.min.jpg",
       "link": "/angebot",
       "button_text": "Angebot"
     }

@@ -5,7 +5,7 @@
       "treatments": [
         {
           "headline": "Faltenkorrektur",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Verschiedene Behandlungsmöglichkeiten mimischer Falten mit Botulinum-Toxin, auf Wunsch in Kombination mit Faltenunterspritzungen durch Hyaluronsäure.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -23,7 +23,7 @@
         },
         {
           "headline": "Lippenkorrektur",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Mit der gezielten Injektion von Füllstoffen lassen sich die Lippen in Form und Größe wunschgemäß verändern, Lippenfältchen werden minimiert.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -41,7 +41,7 @@
         },
         {
           "headline": "Liquidlifting",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Durch die großflächige Anwendung von Hyaluronsäure-Fillern lassen sich gute Erfolge im Hautbild an Hals, Dekolleté und im Gesicht erzielen.",
           "duration": "ca. 45 Minuten",
           "result": "sofort, maximale Wirkung nach 3 Monaten",
           "effect": "? ? ?",
@@ -55,7 +55,7 @@
         },
         {
           "headline": "Fadenlifting",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Eine sanfte Methode der Faltenbehandlung ohne Skalpell und Vollnarkose. Das Gesicht wird gestrafft und die körpereigene Kollagenproduktion angeregt.",
           "duration": "ca. 45 Minuten",
           "result": "sofort, maximale Wirkung nach 3 Monaten",
           "effect": "? ? ?",
@@ -69,7 +69,7 @@
         },
         {
           "headline": "Gesichtskonturierung",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Durch die Injektion speziell aufeinander abgestimmter Füllstoffe können gezielt \neinzelne Bereiche des Gesichtes betont und hervorgehoben werden.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -87,7 +87,7 @@
         },
         {
           "headline": "Lifting to go",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Effektiv wie ein Lifting, aber ganz ohne OP: Hyaluronsäure  wird an spezielle Gesichtspunkte injiziert, so dass die Haut sofort straffer und frischer aussieht.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -105,7 +105,7 @@
         },
         {
           "headline": "Glow to go",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Feinflüssige Hyaluronsäure, die sich unter der Haut verteilt, erzeugt einen Soforteffekt an Gesicht, Hals und Dekolleté: Die Haut strahlt frisch und jugendlich.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -123,7 +123,7 @@
         },
         {
           "headline": "Nasenkorrektur ohne Operation",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Die Form und Größe der Nase kann durch Injektion eines speziellen Füllstoffes nach den persönlichen Vorstellungen des Patienten korrigiert werden.",
           "duration": "ca. 45 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -137,7 +137,7 @@
         },
         {
           "headline": "Handverjüngung",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Eine deutliche Verbesserung des Hautbildes und optische Verjüngung der Hände ist ebenfalls durch gezielte Anwendung spezieller Füllstoffe möglich.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -151,7 +151,7 @@
         },
         {
           "headline": "Infusionstherapie \"Drips\"",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Die Power-Cocktails aus Vitaminen, Mineralstoffen und Antioxidantien gelangen direkt über die Vene in den Blutkreislauf und sind deshalb hochwirksam.",
           "duration": "ca. 15 Minuten",
           "result": "sofort",
           "effect": "? ? ?",
@@ -165,7 +165,7 @@
         },
         {
           "headline": "Hyperdriose",
-          "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+          "text": "Bei übermäßigem Schwitzen und krankhaften Fehlfunktionen der Schweißsekretion sind Botox-Injektionen eine zuverlässig wirksame Behandlungsmethode.",
           "duration": "ca. 30 Minuten",
           "result": "sofort",
           "effect": "? ? ?",

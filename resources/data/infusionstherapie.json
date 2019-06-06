@@ -2,17 +2,17 @@
   {
     "type": "banner",
     "data": {
-      "image": "img/banner/infusionstherapie.jpg"
+      "image": "img/banner/infusionstherapie.min.jpg"
     }
   },
   {
     "type": "treatment",
     "data": {
-      "headline": "Infusionstherapie - Extra-Drips für mehr Wellbeing",
+      "headline": "Infusionstherapie - Extra-Drips für Gesundheit, Schönheit und Leistungsfähigkeit",
       "content": "file:infusionstherapie.md",
-      "treatment_duration": "ca. 15 Minuten",
-      "treatment_result": "sofort",
-      "effect_duration": "? ? ?",
+      "treatment_duration": null,
+      "treatment_result": null,
+      "effect_duration": null,
       "downtime": null
     }
   },
@@ -20,66 +20,47 @@
     "type": "drip",
     "data": {
       "headline": "Energy Drip",
-      "usage": [
-        "für mehr körperliche Energie und Ausdauer",
-        "bei hoher Muskelbeanspruchung",
-        "zur Steigerung der Konzentration",
-        "zur Verbesserung des Schlafes"
-      ],
+      "content": "file:drip/energy.md",
       "ingredients": [
         "B-Vitamine",
         "Taurin",
-        "Carnithin"
-      ],
-      "ingredients_plus": [
+        "Carnitin",
         "Magnesium",
-        "MT5"
+        "MTE-5"
       ]
     }
   },
   {
     "type": "drip",
     "data": {
-      "headline": "Health Drip",
-      "usage": [
-        "bei einem geschwächten Immunsystem",
-        "zur Vorbeugung von Erkältungsinfekten",
-        "bei akuter Grippe oder anderen Viruserkrankung",
-        "zur Stärkung des Immunabwehr vor einer Reise"
-      ],
+      "headline": "Relax Drip",
+      "content": "file:drip/relax.md",
       "ingredients": [
-        "hochdosiertes Vitamin C",
         "Zink",
-        "Lysin"
-      ],
-      "ingredients_plus": [
-        "Vitmain B-Complex",
-        "Methyl B12",
-        "Calcium",
         "Magnesium",
-        "MTE",
-        "B6"
+        "Procaine",
+        "Glycine",
+        "Taurin",
+        "Vitamin C",
+        "Calcium Gluconate",
+        "B-Komplex",
+        "B5",
+        "MTE-5"
       ]
     }
   },
   {
     "type": "drip",
     "data": {
-      "headline": "Skinny Drip",
-      "usage": [
-        "zur erhöhten Fettverbrennung",
-        "zur Unterstützung von Gewichtsverlust",
-        "zur Reduktion von Fetteinlagerungen"
-      ],
+      "headline": "Skinny",
+      "content": "file:drip/skinny.md",
       "ingredients": [
         "MIC",
-        "L-Carnithin"
-      ],
-      "ingredients_plus": [
+        "L-Carnitin",
         "Vitamin C",
-        "B-Complex",
+        "B-Komplex",
         "Pyridoxine",
-        "Dexpantherol",
+        "Dexpanthenol",
         "MTE-5",
         "Taurin"
       ]
@@ -88,51 +69,80 @@
   {
     "type": "drip",
     "data": {
-      "headline": "Detox Drip",
-      "usage": [
-        "für die Reinigung und Entgiftung des Körpers",
-        "zur Unterstützung einer Nahrungsumstellung",
-        "für mehr Power & Body Balance"
-      ],
+      "headline": "Smart Aging",
+      "content": "file:drip/smart_aging.md",
       "ingredients": [
+        "NAD+",
+        "Gluathione",
+        "Lysin",
+        "L-Carnitin",
         "Vitamin C",
-        "Selen",
-        "Glutathion"
-      ],
-      "ingredients_plus": [
-        "Methyl B12",
-        "B-Complex 100",
-        "Magnesium",
+        "B-Komplex",
         "Calcium",
-        "Taurin",
-        "hydration fluids",
-        "multi trace element"
+        "Vitamin B5",
+        "Vitamin B6",
+        "Magnesium",
+        "Selen",
+        "Zink"
       ]
     }
   },
   {
     "type": "drip",
     "data": {
-      "headline": "Relax your Mind",
-      "usage": [
-        "bei stressbedingter Müdigkeit",
-        "bei Unruhe und innerer Anspannung",
-        "bei Schlafstörungen",
-        "bei Depressionen oder Angstzuständen"
-      ],
+      "headline": "Meno Support",
+      "content": "file:drip/meno_support.md",
       "ingredients": [
-        "Procaine",
-        "Zink",
-        "2x Magnesium",
-        "Glycin",
-        "5x Taurin"
-      ],
-      "ingredients_plus": [
-        "Vitmain C",
-        "Calcium Gluconat",
-        "Vitmain B-Complex",
-        "B5",
-        "MTE-5"
+        "Mönchspfeffer (Calycast)",
+        "Ginsengwurzel",
+        "Scheigrohr",
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin B6",
+        "Vitamin B1"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Glow",
+      "content": "file:drip/glow.md",
+      "ingredients": [
+        "Glutathione",
+        "Vitamin C"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Detox Drip",
+      "content": "file:drip/detox.md",
+      "ingredients": [
+        "Glutathione",
+        "Selen",
+        "Methyl B12",
+        "B-Complex 100",
+        "Calcium",
+        "Taurin",
+        "Multi Trace Elements",
+        "Hydration Fluids",
+        "Vitamin C"
+      ]
+    }
+  },
+  {
+    "type": "drip",
+    "data": {
+      "headline": "Sleep Drip",
+      "content": "file:drip/sleep.md",
+      "ingredients": [
+        "Tarantula",
+        "Baldrian",
+        "Vitamin B12",
+        "Vitamin B6",
+        "Vitamin B1"
       ]
     }
   }

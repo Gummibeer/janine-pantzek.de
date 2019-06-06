@@ -1,7 +1,11 @@
-Sie wünschen sich mehr Ausgeglichenheit und Leistungsfähigkeit im Job? Sie möchten Ihren Körper entgiften, Muskeln aufbauen und eine möglichst strahlende, straffe Haut? Sie wollen Müdigkeit und Stress entgegenwirken, Infektionskrankheiten vorbeugen – wissen aber nicht, wie und wann? Neben Arbeit, Familie, Haushalt und den vielen anderen Anforderungen des Alltags haben wir eben nicht immer ausreichend Zeit und Energie, uns optimal um unsere Ernährung, Bewegung und Entspannung zu kümmern. 
+### Mehr Ausstrahlung
 
-In meiner Praxis biete ich deshalb Extra-Drips an – hochqualitative Infusionen, die Vitamine, Aminosäuren, Mineralstoffe und Antioxidantien direkt in die Blutbahn befördern. Die individuell auf den Patienten abgestimmte Vitamininfusion gelangt tröpfelnd („to drip“) über die Vene in den Blutkreislauf und muss nicht erst noch den Magen-Darm-Trakt passieren. Daher wirken Drips schneller und effektiver als jede andere Gabe von Power-Cocktails, die wir über Nahrungsergänzungsmittel in Pulver-, Kapsel- oder Tablettenform zu uns nehmen können. Hier kommen die Inhaltsstoffe ohne Umwege direkt ins Blut und der Körper profitiert zusätzlich von der Flüssigkeitszufuhr. 
+Sie wünschen sich ein strahlendes Aussehen, mehr Ausgeglichenheit und Body Balance oder wirkungsvolle Unterstützung bei der Gewichtsreduktion und beim Muskelaufbau? Unsere Drips sind die schnellen Helfer für alle Bedürfnisse. 
 
-### Ihr Check für höchste Qualität
+### Mehr Individualität
 
-Nach einer Erstanamnese stelle ich eine auf Ihre Bedürfnisse maßgeschneiderte Infusionstherapie zusammen. Die Inhaltsstoffe unterliegen dabei strengsten Kontrollen, die Wirkstoffkombinationen sind von höchster Qualität. Dieses ist deshalb besonders wichtig, weil es gerade bei der Zusammensetzung von Vitamen und Nährstoffen große Qualitätsunterschiede gibt. 
+Nach einer Erstanamnese stellen wir eine auf Ihre Bedürfnisse maßgeschneiderte Infusionstherapie zusammen. Die Infusionen unterliegen dabei strengen wissenschaftlichen Erkenntnissen, die Wirkstoffkombination wird individuell angepasst.
+
+### Mehr Effektivität
+ 
+Unsere speziellen, hochdosierten Mixturen von Vitaminen, Aminosäuren, Mineralstoffen und Antioxidantien gelangen tröpfelnd („to drip“) über die Vene in den Blutkreislauf. Sie entfalten somit ihre Wirkung schneller und effektiver als jedes Nahrungsergänzungsmittel, das in Pulver-, Kapsel- oder Tablettenform eingenommen wird. 

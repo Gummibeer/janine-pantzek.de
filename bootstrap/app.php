@@ -84,6 +84,13 @@ $app->singleton(Parsedown::class, function (): Parsedown {
 });
 
 $app->make(\Curlyspoon\Cms\Contracts\NormalizerManager::class)
+    ->register('sort', function (\Symfony\Component\OptionsResolver\Options $options, $value) {
+        if (is_array($value)) {
+            natsort($value);
+        }
+
+        return $value;
+    })
     ->register('url', function (\Symfony\Component\OptionsResolver\Options $options, $value) {
         return url($value);
     })
