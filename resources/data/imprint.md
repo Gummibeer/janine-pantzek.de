@@ -1,7 +1,7 @@
 # Impressum
 
 **Angaben gemäß § 5 TMG**  
-Dr. med. Janine Pantzek-Tierling  
+Dr. med. Janine Pantzek  
 St. Benedictstraße 15  
 20149 Hamburg  
 Deutschland
@@ -16,7 +16,7 @@ E-Mail: [info@janine-pantzek.com](mailto:info@janine-pantzek.com)
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE193023061
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
-Dr. med. Janine Pantzek-Tierling  
+Dr. med. Janine Pantzek  
 St. Benedictstraße 15  
 20149 Hamburg
 

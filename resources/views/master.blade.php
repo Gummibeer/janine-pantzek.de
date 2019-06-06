@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>@if(app('request')->path() != '/') @if(isset($title)) {{ $title }} @else {{ title_case(str_replace('/', ' ', app('request')->path())) }} @endif | @endif Dr. med. Janine Pantzek-Tierling</title>
+    <title>@if(app('request')->path() != '/') @if(isset($title)) {{ $title }} @else {{ title_case(str_replace('/', ' ', app('request')->path())) }} @endif | @endif Dr. med. Janine Pantzek</title>
 
     <link rel="stylesheet" href="{{ versioned_asset('css/google-fonts.css') }}">
     <link rel="stylesheet" href="{{ versioned_asset('css/app.min.css') }}">
