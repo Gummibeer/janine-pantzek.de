@@ -10,9 +10,9 @@
     "data": {
       "headline": "Infusionstherapie - Extra-Drips für Gesundheit, Schönheit und Leistungsfähigkeit",
       "content": "file:infusionstherapie.md",
-      "treatment_duration": null,
-      "treatment_result": null,
-      "effect_duration": null,
+      "treatment_duration": "ca. 15 Minuten",
+      "treatment_result": "sofort",
+      "effect_duration": "? ? ?",
       "downtime": null
     }
   },

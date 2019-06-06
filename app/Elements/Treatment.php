@@ -18,9 +18,9 @@ class Treatment extends Element
     protected $types = [
         'headline' => 'string',
         'content' => 'string',
-        'treatment_duration' => ['string', 'null'],
-        'treatment_result' => ['string', 'null'],
-        'effect_duration' => ['string', 'null'],
+        'treatment_duration' => 'string',
+        'treatment_result' => 'string',
+        'effect_duration' => 'string',
         'downtime' => ['string', 'null'],
     ];
 
