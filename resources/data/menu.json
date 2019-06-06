@@ -12,6 +12,10 @@
     "text": "Angebot"
   },
   {
+    "link": "infusionstherapie",
+    "text": "Infusionstherapie"
+  },
+  {
     "text": "Methodik",
     "childs": [
       {
@@ -29,10 +33,6 @@
       {
         "link": "liquidlifting",
         "text": "Liquidlifting & MD Codes"
-      },
-      {
-        "link": "infusionstherapie",
-        "text": "Infusionstherapie"
       }
     ]
   },
