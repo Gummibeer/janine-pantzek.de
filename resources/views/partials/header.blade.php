@@ -1,7 +1,7 @@
 <header id="header">
     <h1>
         Dr. Janine Pantzek
-        <small>Medical&nbsp;Institut für Schönheit und Health&nbsp;Care</small>
+        <small>Medical&nbsp;Institute für Schönheit und Health&nbsp;Care</small>
     </h1>
     <nav class="navbar navbar-expand-md navbar-primary">
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar-main-menu">
