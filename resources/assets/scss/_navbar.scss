@@ -96,6 +96,10 @@
       }
 
       .navbar-nav {
+        @include media-breakpoint-up(md) {
+          flex-wrap: wrap;
+        }
+
         .nav-item {
           .nav-link {
             padding: 0.5rem 1.5rem;
