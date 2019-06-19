@@ -12,8 +12,10 @@
                             <dt>Behandlungsdauer</dt>
                             <dd>{{ $treatment['duration'] }}</dd>
 
+                            @if($treatment['effect'])
                             <dt>Wirkungsdauer</dt>
                             <dd>{{ $treatment['effect'] }}</dd>
+                            @endif
 
                             <dt>Downtime</dt>
                             <dd>{{ $treatment['downtime'] ?? 'keine' }}</dd>

@@ -20,7 +20,7 @@ class Treatment extends Element
         'content' => 'string',
         'treatment_duration' => 'string',
         'treatment_result' => 'string',
-        'effect_duration' => 'string',
+        'effect_duration' => ['string', 'null'],
         'downtime' => ['string', 'null'],
     ];
 

@@ -7,7 +7,7 @@
           "headline": "Faltenkorrektur",
           "text": "Verschiedene Behandlungsmöglichkeiten mimischer Falten mit Botulinum-Toxin, auf Wunsch in Kombination mit Faltenunterspritzungen durch Hyaluronsäure.",
           "duration": "ca. 30 Minuten",
-          "effect": "6 Monate",
+          "effect": "3-6 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -54,7 +54,7 @@
           "headline": "Fadenlifting",
           "text": "Eine sanfte Methode der Faltenbehandlung ohne Skalpell und Vollnarkose. Das Gesicht wird gestrafft und die körpereigene Kollagenproduktion angeregt.",
           "duration": "ca. 45 Minuten",
-          "effect": "6 Monate",
+          "effect": "6-12 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -67,7 +67,7 @@
           "headline": "Gesichtskonturierung",
           "text": "Durch die Injektion speziell aufeinander abgestimmter Füllstoffe können gezielt \neinzelne Bereiche des Gesichtes betont und hervorgehoben werden.",
           "duration": "ca. 30 Minuten",
-          "effect": "12 Monate",
+          "effect": "12-24 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -84,7 +84,7 @@
           "headline": "Lifting to go",
           "text": "Effektiv wie ein Lifting, aber ganz ohne OP: Hyaluronsäure  wird an spezielle Gesichtspunkte injiziert, so dass die Haut sofort straffer und frischer aussieht.",
           "duration": "ca. 30 Minuten",
-          "effect": "6 Monate",
+          "effect": "6-24 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -118,7 +118,7 @@
           "headline": "Nasenkorrektur ohne Operation",
           "text": "Die Form und Größe der Nase kann durch Injektion eines speziellen Füllstoffes nach den persönlichen Vorstellungen des Patienten korrigiert werden.",
           "duration": "ca. 45 Minuten",
-          "effect": "12 Monate",
+          "effect": "12-24 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -131,7 +131,7 @@
           "headline": "Handverjüngung",
           "text": "Eine deutliche Verbesserung des Hautbildes und optische Verjüngung der Hände ist ebenfalls durch gezielte Anwendung spezieller Füllstoffe möglich.",
           "duration": "ca. 30 Minuten",
-          "effect": "12 Monate",
+          "effect": "12-24 Monate",
           "downtime": null,
           "buttons": [
             {
@@ -144,7 +144,7 @@
           "headline": "Infusionstherapie \"Drips\"",
           "text": "Die Power-Cocktails aus Vitaminen, Mineralstoffen und Antioxidantien gelangen direkt über die Vene in den Blutkreislauf und sind deshalb hochwirksam.",
           "duration": "ca. 15 Minuten",
-          "effect": "4-6 Monate",
+          "effect": null,
           "downtime": null,
           "buttons": [
             {

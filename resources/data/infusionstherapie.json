@@ -12,7 +12,7 @@
       "content": "file:infusionstherapie.md",
       "treatment_duration": "ca. 15 Minuten",
       "treatment_result": "sofort",
-      "effect_duration": "4-6 Monate",
+      "effect_duration": null,
       "downtime": null
     }
   },

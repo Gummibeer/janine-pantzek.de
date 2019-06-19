@@ -28,7 +28,7 @@ class Treatments extends Element
                 'headline' => 'string',
                 'text' => 'string',
                 'duration' => 'string',
-                'effect' => 'string',
+                'effect' => ['string', 'null'],
                 'downtime' => ['string', 'null'],
                 'buttons' => 'array[]',
             ],

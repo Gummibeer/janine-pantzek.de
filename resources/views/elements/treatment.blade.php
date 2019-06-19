@@ -12,10 +12,12 @@
                     <dt>Behandlungserfolg</dt>
                     <dd>{{ $treatment_result }}</dd>
                 </div>
+                @if($effect_duration)
                 <div class="col-sm-6 col-lg-3">
                     <dt>Wirkungsdauer</dt>
                     <dd>{{ $effect_duration }}</dd>
                 </div>
+                @endif
                 <div class="col-sm-6 col-lg-3">
                     <dt>Downtime</dt>
                     <dd>{{ $downtime ?? 'keine' }}</dd>

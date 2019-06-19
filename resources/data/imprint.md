@@ -28,6 +28,18 @@ Carola Born
 Gummibeer (Tom Witkowski)  
 [https://gummibeer.de](https://gummibeer.de)
 
+**Fotocredits:**  
+iStock:
+VladimirFLoyd,
+YanLev,
+dmbaker,
+yuriyzhuravov,
+utkamandarinka,
+paultarasenko,
+Mutlu Kurtbas,
+Yulia Lisitsa,
+Brita Plath
+
 **Streitschlichtung**  
 Informationen zur Europäischen Online-Streitbeilegungs-Plattform und zur Teilnahme an Streitbelegungsverfahren vor Verbraucherschlichtungsstellen: Nach geltendem Recht sind wir verpflichtet, die Verbraucher auf die Existenz der Europäischen Online-Streitbeilegungs-Plattform hinzuweisen, die für die Beilegung von Streitigkeiten genutzt werden kann, ohne dass ein Gericht eingeschaltet werden muss. Für die Einrichtung der Plattform ist die Europäische Kommission zuständig. Sie finden die Europäische Online-Streitbeilegungs-Plattform hier: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir weder verpflichtet noch bereit.
 
