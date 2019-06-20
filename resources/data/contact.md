@@ -4,7 +4,7 @@
 <div class="col-md-6">
 <p>
 Dr. med. Janine Pantzek<br/>
-Institut für Schönheit und Health Care
+Medical&nbsp;Institute für Schönheit und Health&nbsp;Care
 </p>
 <p>
 Eppendorfer Landstr. 77<br/>  
