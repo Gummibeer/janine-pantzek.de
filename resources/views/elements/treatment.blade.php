@@ -8,10 +8,12 @@
                     <dt>Behandlungsdauer</dt>
                     <dd>{{ $treatment_duration }}</dd>
                 </div>
-                <div class="col-sm-6 col-lg-3">
-                    <dt>Behandlungserfolg</dt>
-                    <dd>{{ $treatment_result }}</dd>
-                </div>
+                @if($treatment_result)
+                    <div class="col-sm-6 col-lg-3">
+                        <dt>Behandlungserfolg</dt>
+                        <dd>{{ $treatment_result }}</dd>
+                    </div>
+                @endif
                 @if($effect_duration)
                 <div class="col-sm-6 col-lg-3">
                     <dt>Wirkungsdauer</dt>
