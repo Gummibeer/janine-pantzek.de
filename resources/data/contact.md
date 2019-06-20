@@ -16,6 +16,6 @@ Eppendorfer Landstr. 77<br/>
 Telefon: <a href="tel:+4940415370116">+49 40 41 53 70 116</a><br/>
 Mobil: <a href="tel:+491772772033">+49 177 277 20 33</a><br/>
 E-Mail: <a href="mailto:info@janine-pantzek.com">info@janine-pantzek.com</a><br/>
-Web: <a href="https://janine-pantzek.com">https://janine-pantzek.com</a>
+Web: <a href="https://janine-pantzek.de">https://janine-pantzek.de</a>
 </div>
 </div>
