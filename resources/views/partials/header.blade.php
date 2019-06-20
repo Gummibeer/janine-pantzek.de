@@ -1,6 +1,6 @@
 <header id="header">
     <h1>
-        Dr. Janine Pantzek
+        Dr. med. Janine Pantzek
         <small>Medical&nbsp;Institute für Schönheit und Health&nbsp;Care</small>
     </h1>
     <nav class="navbar navbar-expand-md navbar-primary">
