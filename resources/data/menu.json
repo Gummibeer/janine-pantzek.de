@@ -4,18 +4,6 @@
     "text": "Startseite"
   },
   {
-    "link": "body-contouring",
-    "text": "Body Contouring"
-  },
-  {
-    "link": "angebot",
-    "text": "Angebot"
-  },
-  {
-    "link": "infusionstherapie",
-    "text": "Infusionstherapie"
-  },
-  {
     "text": "Methodik",
     "childs": [
       {
@@ -37,8 +25,20 @@
     ]
   },
   {
+    "link": "body-contouring",
+    "text": "Body Contouring"
+  },
+  {
+    "link": "infusionstherapie",
+    "text": "Infusionstherapie"
+  },
+  {
+    "link": "angebot",
+    "text": "Angebot"
+  },
+  {
     "link": "dr-janine-pantzek",
-    "text": "Dr. Janine Pantzek"
+    "text": "Dr. med. Janine Pantzek"
   },
   {
     "link": "kontakt",
