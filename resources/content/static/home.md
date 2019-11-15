@@ -24,7 +24,7 @@ imagesWithText:
         button: Dr. Janine Pantzek
     -
         direction: ltr
-        bg_position: top
+        position: top
         headline: Smart Aging statt Altersbekämpfung
         text: Sich gegen jegliche Form des Alterns zu wehren (wie der Begriff "Anti-Aging" suggeriert), kann auf Dauer frustrierend sein. Sinnvoller und befriedigender ist es, die Art der persönlichen Alterserscheinungen zu beeinflussen ("Smart Aging"). Durch den gezielten Einsatz von biologischen Füllsubstanzen wie z.B. Hyaluronsäure und Botulinumtoxin A (Botox) sowie Fadentechniken, kann der degenerative Alterungsprozess wirksam und mit sichtbarem Ergebnis verzögert werden.
         src: images/content/smart_aging.min.jpg
