@@ -14,8 +14,8 @@ Dr. med. Janine Pantzek<br/>
 Medical&nbsp;Institute für Schönheit und Health&nbsp;Care
 </p>
 <p>
-Eppendorfer Landstr. 77<br/>  
-20249 Hamburg
+Mittelweg 16-17<br/>  
+20148 Hamburg
 </p>
 </div>
 
