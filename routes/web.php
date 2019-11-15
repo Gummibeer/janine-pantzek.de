@@ -1,20 +1,29 @@
 <?php
 
-$router->get('/', function () {
-    $data = [];
-    $data['content'] = load_data_json('home');
+use Astrotomic\Stancy\Facades\PageFactory;
+use Astrotomic\Stancy\Facades\SitemapFactory;
+use Illuminate\Support\Facades\Route;
 
-    return view('page', $data);
+Route::get('/', function () {
+    return PageFactory::makeFromSheetName('static', 'home');
 });
 
-foreach(pages() as $route => $page) {
-    $router->get($route, function () use ($page) {
-        $data = [];
-        $data['content'] = load_data_json($page['data']);
-        if(isset($page['title'])) {
-            $data['title'] = $page['title'];
-        }
+Route::get('/sitemap.xml', function () {
+    return SitemapFactory::makeFromSheetList(['static']);
+});
 
-        return view('page', $data);
-    });
-}
+Route::get('/404.html', function () {
+    return PageFactory::makeFromSheetName('error', '404');
+});
+
+Route::get('/robots.txt', function () {
+    return implode(PHP_EOL, [
+        'user-agent: *',
+        'allow: /',
+        'sitemap: '.url('sitemap.xml'),
+    ]);
+});
+
+Route::get('/{page}', function (string $page) {
+    return PageFactory::makeFromSheetName('static', $page);
+});

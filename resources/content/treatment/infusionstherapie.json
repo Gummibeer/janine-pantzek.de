@@ -1,0 +1,13 @@
+{
+    "headline": "Infusionstherapie \"Drips\"",
+    "text": "Die Power-Cocktails aus Vitaminen, Mineralstoffen und Antioxidantien gelangen direkt über die Vene in den Blutkreislauf und sind deshalb hochwirksam.",
+    "duration": "ca. 15 Minuten",
+    "effect": null,
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "infusionstherapie",
+            "text": "Infusionstherapie"
+        }
+    ]
+}

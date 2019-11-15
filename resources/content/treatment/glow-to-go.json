@@ -1,0 +1,17 @@
+{
+    "headline": "Glow to go",
+    "text": "Feinflüssige Hyaluronsäure, die sich unter der Haut verteilt, erzeugt einen Soforteffekt an Gesicht, Hals und Dekolleté: Die Haut strahlt frisch und jugendlich.",
+    "duration": "ca. 30 Minuten",
+    "effect": "6 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluron"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

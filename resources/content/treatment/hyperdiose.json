@@ -1,0 +1,13 @@
+{
+    "headline": "Hyperdriose",
+    "text": "Bei übermäßigem Schwitzen und krankhaften Fehlfunktionen der Schweißsekretion sind Botox-Injektionen eine zuverlässig wirksame Behandlungsmethode.",
+    "duration": "ca. 30 Minuten",
+    "effect": "6-12 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

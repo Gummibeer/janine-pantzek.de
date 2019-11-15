@@ -1,31 +1,56 @@
-let mix = require('laravel-mix');
-require('laravel-mix-sri');
-const GoogleFontsPlugin = require("google-fonts-webpack-plugin")
+const mix = require('laravel-mix');
+require('laravel-mix-purgecss');
+const glob = require('glob');
+const path = require('path');
 
-mix
-    .sass('resources/assets/scss/app.scss', 'public/css/app.min.css')
-    .webpackConfig({
-        plugins: [
-            new GoogleFontsPlugin({
-                filename: '/css/google-fonts.css',
-                path: '/fonts/vendor/googlefonts/',
-                fonts: [
+Mix.listen('configReady', webpackConfig => {
+    webpackConfig.module.rules.forEach(rule => {
+        if (Array.isArray(rule.use)) {
+            rule.use.forEach(ruleUse => {
+                if (ruleUse.loader === 'resolve-url-loader') {
+                    ruleUse.options.engine = 'postcss';
+                }
+            });
+        }
+    });
+});
+mix.webpackConfig({
+    module: {
+        rules: [
+            {
+                test: /\.svg(\?.*)?$/,
+                use: [
                     {
-                        family: "Lato",
-                        variants: [
-                            '300',
-                            '300i',
-                            '400',
-                        ]
-                    },
-                    {
-                        family: "Montserrat",
-                        variants: [
-                            '300',
-                        ]
+                        loader: 'svgo-loader',
+                        options: {
+                            plugins: [
+                                {removeTitle: true},
+                                {convertColors: {shorthex: false}},
+                                {convertPathData: false}
+                            ]
+                        }
                     }
                 ]
-            }),
-        ],
-    })
+            }
+        ]
+    }
+});
+mix.options({
+    processCssUrls: true,
+    postCss: [
+        require('postcss-discard-comments')({
+            removeAll: true,
+        }),
+    ],
+});
+mix.purgeCss();
+mix.version();
+
+mix
+    .sass('resources/assets/scss/app.scss', 'css')
+    .js('resources/assets/js/app.js', 'public/js/app.js')
 ;
+
+glob.sync(path.resolve(__dirname, 'resources', 'assets', 'img') + '/**/*.jpg').forEach(img => {
+    mix.copy(img, img.replace(path.resolve(__dirname, 'resources', 'assets', 'img'), 'public/images'));
+});

@@ -1,0 +1,17 @@
+{
+    "headline": "Lippenkorrektur",
+    "text": "Mit der gezielten Injektion von Füllstoffen lassen sich die Lippen in Form und Größe wunschgemäß verändern, Lippenfältchen werden minimiert.",
+    "duration": "ca. 30 Minuten",
+    "effect": "6-12 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluron"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

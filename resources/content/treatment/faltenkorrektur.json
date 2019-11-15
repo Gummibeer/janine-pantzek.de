@@ -1,0 +1,17 @@
+{
+    "headline": "Faltenkorrektur",
+    "text": "Verschiedene Behandlungsmöglichkeiten mimischer Falten mit Botulinum-Toxin, auf Wunsch in Kombination mit Faltenunterspritzungen durch Hyaluronsäure.",
+    "duration": "ca. 30 Minuten",
+    "effect": "3-6 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluron"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

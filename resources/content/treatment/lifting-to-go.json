@@ -1,0 +1,17 @@
+{
+    "headline": "Lifting to go",
+    "text": "Effektiv wie ein Lifting, aber ganz ohne OP: Hyaluronsäure  wird an spezielle Gesichtspunkte injiziert, so dass die Haut sofort straffer und frischer aussieht.",
+    "duration": "ca. 30 Minuten",
+    "effect": "6-24 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluron"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

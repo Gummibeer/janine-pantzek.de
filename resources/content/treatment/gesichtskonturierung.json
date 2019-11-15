@@ -1,0 +1,17 @@
+{
+    "headline": "Gesichtskonturierung",
+    "text": "Durch die Injektion speziell aufeinander abgestimmter Füllstoffe können gezielt \neinzelne Bereiche des Gesichtes betont und hervorgehoben werden.",
+    "duration": "ca. 30 Minuten",
+    "effect": "12-24 Monate",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluron"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

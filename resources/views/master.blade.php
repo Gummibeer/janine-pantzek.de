@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>@if(app('request')->path() != '/') @if(isset($title)) {{ $title }} @else {{ title_case(str_replace('/', ' ', app('request')->path())) }} @endif | @endif Dr. med. Janine Pantzek</title>
+    <title>@yield('title', (!request()->is('/') && isset($title)) ? sprintf('%s | %s', $title, config('app.name')): config('app.name'))</title>
 
-    <link rel="stylesheet" href="{{ versioned_asset('css/google-fonts.css') }}">
-    <link rel="stylesheet" href="{{ versioned_asset('css/app.min.css') }}">
+    <link rel="stylesheet" href="{{ mix('css/app.css') }}" />
+
+    <link rel="sitemap" type="application/xml" href="{{ url('sitemap.xml') }}" title="Sitemap" />
 </head>
-<body>
+<body id="body-{{ $slug }}">
 
 <div id="wrapper" class="container">
     @include('partials.header')
@@ -21,11 +22,6 @@
     @include('partials.footer')
 </div>
 
-<script src="{{ versioned_asset('js/jquery.min.js') }}"></script>
-<script src="{{ versioned_asset('js/bootstrap.min.js') }}"></script>
-<script src="{{ versioned_asset('js/lazysizes.min.js') }}"></script>
-<script src="{{ versioned_asset('js/ls.unveilhooks.min.js') }}"></script>
-<script src="{{ versioned_asset('js/app.js') }}"></script>
-
+<script async defer src="{{ mix('js/app.js') }}" type="application/javascript"></script>
 </body>
 </html>
