@@ -1,4 +1,5 @@
 ---
+_pageData: \App\Pages\Plain
 _view: content.plain
 title: Dr. med. Janine Pantzek
 banner: images/banner/portrait.min.jpg

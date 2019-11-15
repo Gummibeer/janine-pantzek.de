@@ -1,4 +1,5 @@
 ---
+_pageData: \App\Pages\Plain
 _view: content.plain
 title: Datenschutz
 ---
