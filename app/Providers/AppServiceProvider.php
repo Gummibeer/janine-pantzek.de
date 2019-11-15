@@ -19,6 +19,6 @@ class AppServiceProvider extends ServiceProvider
 
     public function booted(ExportFactoryContract $exportFactory): void
     {
-//        $exportFactory->addSheetCollectionName('static');
+        $exportFactory->addSheetCollectionName('static');
     }
 }
