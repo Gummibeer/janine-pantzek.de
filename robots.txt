@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://janine-pantzek.de/sitemap.xml
