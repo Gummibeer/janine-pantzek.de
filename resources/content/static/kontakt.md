@@ -20,7 +20,7 @@ Mittelweg 16-17<br/>
 </div>
 
 <div class="col-md-6">
-Telefon: <a href="tel:+4940415370116">+49 40 41 53 70 116</a><br/>
+Telefon: <a href="tel:+494041343276">+49 40 41 34 32 76</a><br/>
 Mobil: <a href="tel:+491772772033">+49 177 277 20 33</a><br/>
 E-Mail: <a href="mailto:info@janine-pantzek.com">info@janine-pantzek.com</a><br/>
 Web: <a href="https://janine-pantzek.de">https://janine-pantzek.de</a>
