@@ -1,7 +1,7 @@
 <section class="{{ $class ?? '' }}">
     <div class="row">
         <div class="col-md-6 @if($direction == 'rtl') order-md-last @endif">
-            @isset($href)<a href="{{ $href }}">@endisset
+            @isset($href)<a href="{{ $href }}" title="@isset($button) {{ $button }} - @endisset {{ $headline }}">@endisset
             <div class="embed-responsive embed-responsive-21by9 h-100">
                 <div class="embed-responsive-item lazyload img-bg-{{ $position ?? 'center' }}" data-bg="{{ asset($src) }}"></div>
             </div>
