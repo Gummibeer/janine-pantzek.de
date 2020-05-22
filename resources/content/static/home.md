@@ -30,6 +30,14 @@ imagesWithText:
         src: images/content/smart_aging.min.jpg
         href: /angebot
         button: Angebot
+    -
+        direction: rtl
+        headline: Mann muss nicht, aber Mann kann
+        text: |-
+            Heute gehören Behandlungen für den Mann ganz selbstverständlich zum modernen Lifestyle. Für ein frisches, markantes, männliches Aussehen bieten wir unterschiedliche Methoden wie Bodycontouring oder Infusionstherapien. Lassen Sie sich persönlich beraten und sich mit modernster 3D-Technologie zeigen, wie Sie aussehen könnten.
+        src: images/content/man.min.jpg
+        href: /fuer-den-mann
+        button: Für den Mann
 ---
 
 ## Willkommen in meinem Institut für ästhetische Medizin

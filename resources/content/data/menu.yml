@@ -1,33 +1,36 @@
-01:
+-
   title: Startseite
   url: /
-02:
+-
   title: Methodik
   childs:
-    01:
+    -
       title: Hyaluron
       url: hyaluron
-    02:
+    -
       title: Botox
       url: botox
-    03:
+    -
       title: Fadenlifting
       url: fadenlifting
-    04:
+    -
       title: Liquidlifting & MD Codes
       url: liquidlifting
-03:
+-
   title: Body Contouring
   url: body-contouring
-04:
+-
   title: Infusionstherapie
   url: infusionstherapie
-05:
+-
   title: Angebot
   url: angebot
-06:
+-
+  title: Für den Mann
+  url: fuer-den-mann
+-
   title: Dr. med. Janine Pantzek
   url: dr-janine-pantzek
-07:
+-
   title: Kontakt
   url: kontakt

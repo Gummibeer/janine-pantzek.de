@@ -9,6 +9,7 @@ return [
     'collections' => [
         'static',
         'error',
+        'man',
         'drip',
         'treatment' => [
             'content_parser' => JsonParser::class,

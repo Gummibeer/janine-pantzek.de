@@ -64,6 +64,10 @@ return [
             'driver' => 'local',
             'root' => resource_path('content/error'),
         ],
+        'man' => [
+            'driver' => 'local',
+            'root' => resource_path('content/man'),
+        ],
         'drip' => [
             'driver' => 'local',
             'root' => resource_path('content/drip'),
