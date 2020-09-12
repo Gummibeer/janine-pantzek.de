@@ -8,8 +8,8 @@ title: Impressum
 
 **Angaben gemäß § 5 TMG**  
 Dr. med. Janine Pantzek  
-St. Benedictstraße 15  
-20149 Hamburg  
+Mittelweg 16–17  
+20148 Hamburg  
 Deutschland
 
 **Kontakt:**  
@@ -23,16 +23,18 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE193023061
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
 Dr. med. Janine Pantzek  
-St. Benedictstraße 15  
-20149 Hamburg
+Mittelweg 16–17  
+20148 Hamburg
 
 **Konzeption & Design:**    
-Carola Born  
-[carolaborn@cargocollective.com](mailto:carolaborn@cargocollective.com)
+Chocola Agency  
+[https://chocola.agency](https://chocola.agency)  
+[carola@chocola.agency](mailto:carola@chocola.agency)
 
-**Technische Konzeption & Programmierung:**  
-Gummibeer (Tom Witkowski)  
-[https://gummibeer.de](https://gummibeer.de)
+**Technologie & Umsetzung:**  
+Tom Witkowski  
+[https://gummibeer.de](https://gummibeer.de)  
+[me@gummibeer.dev](mailto:me@gummibeer.dev)
 
 **Fotocredits:**  
 iStock:
@@ -44,7 +46,11 @@ utkamandarinka,
 paultarasenko,
 Mutlu Kurtbas,
 Yulia Lisitsa,
-Brita Plath
+Brita Plath  
+Adobe Stock:
+blackday, 
+Victor Tongdee, 
+Valpazou
 
 **Streitschlichtung**  
 Informationen zur Europäischen Online-Streitbeilegungs-Plattform und zur Teilnahme an Streitbelegungsverfahren vor Verbraucherschlichtungsstellen: Nach geltendem Recht sind wir verpflichtet, die Verbraucher auf die Existenz der Europäischen Online-Streitbeilegungs-Plattform hinzuweisen, die für die Beilegung von Streitigkeiten genutzt werden kann, ohne dass ein Gericht eingeschaltet werden muss. Für die Einrichtung der Plattform ist die Europäische Kommission zuständig. Sie finden die Europäische Online-Streitbeilegungs-Plattform hier: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). Zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle sind wir weder verpflichtet noch bereit.
