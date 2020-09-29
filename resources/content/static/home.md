@@ -7,7 +7,7 @@ imagesWithText:
         direction: ltr
         headline: Mehr Lebensqualität für Sie
         text: |-
-          Mein persönliches Ziel ist es, dass Sie sich jeden Morgen gern im Spiegel anschauen. Sie sollen sich attraktiv, gesund und fit fühlen – egal wie alt Sie sind. Ich wende seit über 15 Jahren Methoden zur sanften Behandlung und Korrektur von Alterserscheinungen ohne operative Eingriffe an (sog. „nonsurgical procedures“). Neben den klassischen Behandlungsfeldern biete ich in diesem Bereich auch FACE DESIGN an. FACE DESIGN ist eine individuelle Kombination unterschiedlicher Behandlungsmethoden, persönlich auf Ihre Bedürfnisse abgestimmt – ohne Ausfallzeiten, aber sehr effektiv. Es ist quasi ein Facelift auf rein minimalinvasiver Basis, ohne chirurgische Eingriffe. Zum FACE DESIGN gehört auch „JAWLINE CONTOURING“ (Kinn-Kiefer-Konturierung), bei der z.B. einer optisch runden Gesichtsform – in nur einer Sitzung - eine definierte Gesichtskontur gegeben werden kann.
+          Mein persönliches Ziel ist es, dass Sie sich jeden Morgen gern im Spiegel anschauen. Sie sollen sich attraktiv, gesund und fit fühlen – egal wie alt Sie sind. Ich wende seit 2005 Methoden zur sanften Behandlung und Korrektur von Alterserscheinungen ohne operative Eingriffe an (sog. „nonsurgical procedures“). Neben den klassischen Behandlungsfeldern biete ich in diesem Bereich auch FACE DESIGN an. FACE DESIGN ist eine individuelle Kombination unterschiedlicher Behandlungsmethoden, persönlich auf Ihre Bedürfnisse abgestimmt – ohne Ausfallzeiten, aber sehr effektiv. Es ist quasi ein Facelift auf rein minimalinvasiver Basis, ohne chirurgische Eingriffe. Zum FACE DESIGN gehört auch „JAWLINE CONTOURING“ (Kinn-Kiefer-Konturierung), bei der z.B. einer optisch runden Gesichtsform – in nur einer Sitzung - eine definierte Gesichtskontur gegeben werden kann.
           Bei allen Behandlungen arbeiten wir mit einer genauen 3 D Analyse Ihres Gesichtes vorab und stimmen die Behandlungsfelder zusammen ab.
         src: images/content/body_contouring.min.jpg
         href: "/angebot"
@@ -17,7 +17,7 @@ imagesWithText:
         headline: Qualität & Expertise
         text: |-
             Mir ist es besonders wichtig, dass bei jedem Eingriff das natürliche Erscheinungsbild meiner Patienten erhalten bleibt. Ich möchte die individuelle Gesichtskontur bestmöglich unterstreichen, statt ein „maskenhaftes“ Gesicht zu erschaffen.
-            Dafür verwende ich ausschließlich Materialien und Substanzen höchster Qualität. Dabei garantiert meine über 15-jährige Erfahrung als Ärztin im Bereich minimal-invasiver Operationen Behandlungen auf höchstem Niveau.
+            Dafür verwende ich ausschließlich Materialien und Substanzen höchster Qualität. Dabei garantiert meine langjährige Erfahrung als Ärztin im Bereich minimal-invasiver Operationen Behandlungen auf höchstem Niveau.
         src: images/content/praxis_2.min.jpg
         href: /dr-janine-pantzek
         button: Dr. Janine Pantzek
