@@ -49,7 +49,6 @@ mix.version();
 mix
     .sass('resources/assets/scss/app.scss', 'css')
     .js('resources/assets/js/app.js', 'public/js/app.js')
-    .copy('resources/assets/img/moved.svg', 'public/images/moved.svg')
 ;
 
 glob.sync(path.resolve(__dirname, 'resources', 'assets', 'img') + '/**/*.jpg').forEach(img => {
