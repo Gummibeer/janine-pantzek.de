@@ -23,7 +23,7 @@
                     </div>
                     @foreach($treatment['buttons'] as $button)
                         <div class="col-6 px-4">
-                            <a href="{{ url($button['url']) }}" class="btn btn-block btn-outline-secondary btn-sm">{{ $button['text'] }}</a>
+                            <a href="{{ url(app()->getLocale().'/'.trim($button['url'], '/')) }}" class="btn btn-block btn-outline-secondary btn-sm">{{ $button['text'] }}</a>
                         </div>
                     @endforeach
                 </div>

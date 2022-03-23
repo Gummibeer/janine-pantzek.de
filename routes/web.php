@@ -1,29 +1,25 @@
 <?php
 
 use Astrotomic\Stancy\Facades\PageFactory;
-use Astrotomic\Stancy\Facades\SitemapFactory;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return PageFactory::makeFromSheetName('static', 'home');
-});
-
-Route::get('/sitemap.xml', function () {
-    return SitemapFactory::makeFromSheetList(['static']);
-});
+Route::redirect('/', config('app.locale'));
 
 Route::get('/404.html', function () {
     return PageFactory::makeFromSheetName('error', '404');
 });
 
-Route::get('/robots.txt', function () {
-    return implode(PHP_EOL, [
-        'user-agent: *',
-        'allow: /',
-        'sitemap: '.url('sitemap.xml'),
-    ]);
+Route::get('/{locale}', function (string $locale) {
+    if(in_array($locale, ['de', 'en'])) {
+        app()->setLocale($locale);
+        return PageFactory::makeFromSheetName('static', "{$locale}/home");
+    }
+
+    return redirect()->to('de/'.$locale);
 });
 
-Route::get('/{page}', function (string $page) {
-    return PageFactory::makeFromSheetName('static', $page);
+Route::get('/{locale}/{page}', function (string $locale, string $page) {
+    app()->setLocale($locale);
+
+    return PageFactory::makeFromSheetName('static', "{$locale}/{$page}");
 });

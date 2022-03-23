@@ -1,0 +1,36 @@
+-
+  title: Home
+  url: /
+-
+  title: Methodology
+  childs:
+    -
+      title: Hyaluron
+      url: hyaluron
+    -
+      title: Botox
+      url: botox
+    -
+      title: Thread lifting
+      url: fadenlifting
+    -
+      title: Liquidlifting & MD Codes
+      url: liquidlifting
+-
+  title: Body Contouring
+  url: body-contouring
+-
+  title: Infusion therapy
+  url: infusionstherapie
+-
+  title: Bruxism
+  url: bruxismus
+-
+  title: Offer
+  url: angebot
+-
+  title: For men
+  url: fuer-den-mann
+-
+  title: Contact
+  url: kontakt

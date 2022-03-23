@@ -14,7 +14,7 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 
 ## Ansprechpartner
 
-Ansprechpartner und Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten bei Besuch dieser Website im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist Dr. med. Janine Pantzek ([Impressum](/impressum)).
+Ansprechpartner und Verantwortlicher für die Verarbeitung deiner personenbezogenen Daten bei Besuch dieser Website im Sinne der EU-Datenschutzgrundverordnung (DSGVO) ist Dr. med. Janine Pantzek ([Impressum](/resources/content/static/de/impressum.md)).
 
 ## Daten&shy;verarbeitung auf unserer Website
 

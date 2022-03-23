@@ -5,24 +5,24 @@
             <div class="infobox">
                 <dl class="row">
                     <div class="col-sm-6 col-lg">
-                        <dt>Behandlungsdauer</dt>
+                        <dt>@lang('Behandlungsdauer')</dt>
                         <dd>{{ $treatmentDuration }}</dd>
                     </div>
                     @if($treatmentResult)
                         <div class="col-sm-6 col-lg">
-                            <dt>Behandlungserfolg</dt>
+                            <dt>@lang('Behandlungserfolg')</dt>
                             <dd>{{ $treatmentResult }}</dd>
                         </div>
                     @endif
                     @if($effectDuration)
                         <div class="col-sm-6 col-lg">
-                            <dt>Wirkungsdauer</dt>
+                            <dt>@lang('Wirkungsdauer')</dt>
                             <dd>{{ $effectDuration }}</dd>
                         </div>
                     @endif
                     <div class="col-sm-6 col-lg">
-                        <dt>Downtime</dt>
-                        <dd>{{ $downtime ?? 'keine' }}</dd>
+                        <dt>@lang('Downtime')</dt>
+                        <dd>{{ $downtime ?? __('keine') }}</dd>
                     </div>
                 </dl>
             </div>

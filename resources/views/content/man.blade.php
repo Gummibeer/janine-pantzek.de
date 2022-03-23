@@ -18,7 +18,7 @@
                             {!! (new League\CommonMark\CommonMarkConverter)->convertToHtml($block['text']) !!}
 
                             @if(isset($block['href']) && isset($block['button']))
-                                <a href="{{ url($block['href']) }}" class="btn btn-secondary btn-block m-0">{{ $block['button'] }}</a>
+                                <a href="{{ url(app()->getLocale().'/'.trim($block['href'], '/')) }}" class="btn btn-secondary btn-block m-0">{{ $block['button'] }}</a>
                             @endisset
                         </div>
                     </div>

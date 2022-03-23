@@ -10,17 +10,17 @@
 
         <div class="collapse navbar-collapse" id="navbar-main-menu">
             <ul class="navbar-nav mr-auto">
-                @foreach(collect(\Spatie\Sheets\Facades\Sheets::collection('data')->get('menu'))->except('slug') as $entry)
-                    <li class="nav-item @if(request()->is($entry['url'] ?? \Illuminate\Support\Arr::pluck($entry['childs'] ?? [], 'url'))) active @endif @if(!empty($entry['childs'])) dropdown @endif">
+                @foreach(collect(\Spatie\Sheets\Facades\Sheets::collection('data')->get(app()->getLocale().'/menu'))->except('slug') as $entry)
+                    <li class="nav-item @if(request()->is(($entry['url'] ?? null) ? trim(app()->getLocale().'/'.$entry['url'], '/') : \Illuminate\Support\Arr::pluck($entry['childs'] ?? [], 'url'))) active @endif @if(!empty($entry['childs'])) dropdown @endif">
                         @if(empty($entry['childs']))
-                            <a class="nav-link" href="{{ url($entry['url']) }}">{{ $entry['title'] }}</a>
+                            <a class="nav-link" href="{{ url(app()->getLocale().'/'.$entry['url']) }}">{{ $entry['title'] }}</a>
                         @else
                             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
                                 {{ $entry['title'] }}
                             </a>
                             <div class="dropdown-menu">
                                 @foreach($entry['childs'] as $child)
-                                    <a class="dropdown-item @if(request()->is($child['url'])) active @endif" href="{{ url($child['url']) }}">{{ $child['title'] }}</a>
+                                    <a class="dropdown-item @if(request()->is(app()->getLocale().'/'.$child['url'])) active @endif" href="{{ url(app()->getLocale().'/'.$child['url']) }}">{{ $child['title'] }}</a>
                                 @endforeach
                             </div>
                         @endif

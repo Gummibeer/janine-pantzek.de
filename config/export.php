@@ -6,7 +6,7 @@ return [
      * If true, the exporter will crawl through your site's pages to determine
      * the paths that need to be exported.
      */
-    'crawl' => false,
+    'crawl' => true,
 
     /*
      * Add additional paths to be added to the export here. If you're using the
@@ -16,8 +16,8 @@ return [
      */
     'paths' => [
         '/404.html',
-        '/sitemap.xml',
-        '/robots.txt',
+        '/de',
+        '/en',
     ],
 
     /*
@@ -60,7 +60,7 @@ return [
      * You can skip these by adding a `--skip-{name}` flag to the command.
      */
     'before' => [
-         'assets' => '/usr/local/bin/yarn prod',
+         'assets' => '$(which yarn) prod',
     ],
 
     /*

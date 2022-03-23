@@ -18,6 +18,6 @@ class Treatments extends PageData implements Routable
 
     public function getUrl(): string
     {
-        return url('/angebot');
+        return url(app()->getLocale().'/angebot');
     }
 }

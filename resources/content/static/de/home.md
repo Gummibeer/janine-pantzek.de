@@ -20,7 +20,7 @@ imagesWithText:
             Dafür verwende ich ausschließlich Materialien und Substanzen höchster Qualität. Dabei garantiert meine langjährige Erfahrung als Ärztin im Bereich minimal-invasiver Operationen Behandlungen auf höchstem Niveau.
         src: images/content/praxis_2.min.jpg
         href: /dr-janine-pantzek
-        button: Dr. Janine Pantzek
+        button: Dr. med. Janine Pantzek
     -
         direction: ltr
         position: top

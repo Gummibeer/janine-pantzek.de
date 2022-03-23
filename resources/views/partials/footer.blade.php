@@ -14,10 +14,10 @@
                     <a href="mailto:info@janine-pantzek.com">info@janine-pantzek.com</a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="{{ url('impressum') }}">Impressum</a>
+                    <a href="{{ url('de/impressum') }}">Impressum</a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="{{ url('datenschutz') }}">Datenschutz</a>
+                    <a href="{{ url('de/datenschutz') }}">Datenschutz</a>
                 </li>
             </ul>
         </div>

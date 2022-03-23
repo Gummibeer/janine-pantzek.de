@@ -7,7 +7,14 @@
     <text class="bg-light">{!! $contents !!}</text>
 
     @foreach($imagesWithText as $imageWithText)
-        <image-text :direction="$imageWithText['direction']" :position="$imageWithText['position'] ?? null" :headline="$imageWithText['headline']" :src="mix($imageWithText['src'])" :href="url($imageWithText['href'])" :button="$imageWithText['button']">
+        <image-text
+            :direction="$imageWithText['direction']"
+            :position="$imageWithText['position'] ?? null"
+            :headline="$imageWithText['headline']"
+            :src="mix($imageWithText['src'])"
+            :href="url(app()->getLocale().'/'.trim($imageWithText['href'], '/'))"
+            :button="$imageWithText['button']"
+        >
             {{ $imageWithText['text'] }}
         </image-text>
     @endforeach
