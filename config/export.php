@@ -17,8 +17,11 @@ return [
     'paths' => [
         '/404.html',
         '/de',
+        '/de/angebot',
         '/en',
+        '/en/angebot',
         '/es',
+        '/es/angebot',
     ],
 
     /*
