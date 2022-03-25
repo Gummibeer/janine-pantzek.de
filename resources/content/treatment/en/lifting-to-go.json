@@ -1,0 +1,17 @@
+{
+    "headline": "Lifting to go",
+    "text": "As effective as a lifting, but without surgery at all: Hyaluronic acid is injected into special areas so that the skin immediately looks firmer and fresher.",
+    "duration": "Approx. 30 minutes",
+    "effect": "6-24 months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluronic"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

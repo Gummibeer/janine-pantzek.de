@@ -1,0 +1,17 @@
+{
+    "headline": "Wrinkle correction",
+    "text": "Various treatment options for mimicking wrinkles with botulinum toxin, if desired in combination with wrinkle injections with hyaluronic acid.",
+    "duration": "Approx. 30 minutes",
+    "effect": "3-6 months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluronic"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

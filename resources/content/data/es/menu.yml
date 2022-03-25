@@ -1,36 +1,36 @@
 -
-  title: Home
+  title: Inicio
   url: /
 -
-  title: Methodology
+  title: Tratamientos
   childs:
     -
-      title: Hyaluronic acid
+      title: Ácido hialurónico
       url: hyaluron
     -
-      title: Botox
+      title: Bótox
       url: botox
     -
-      title: Thread lifting
+      title: Estiramiento con hilos tensores
       url: fadenlifting
     -
       title: Liquidlifting & MD Codes
       url: liquidlifting
 -
-  title: Body Contouring
+  title: Lipoescultura
   url: body-contouring
 -
-  title: Infusion therapy
+  title: Terapia de infusión
   url: infusionstherapie
 -
-  title: Bruxism
+  title: Bruxismo
   url: bruxismus
 -
-  title: Offer
+  title: Servicios
   url: angebot
 -
-  title: For men
+  title: Para ellos
   url: fuer-den-mann
 -
-  title: Contact
+  title: Contacto
   url: kontakt

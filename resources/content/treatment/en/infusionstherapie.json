@@ -1,0 +1,13 @@
+{
+    "headline": "Infusion therapy \"Drips\"",
+    "text": "The power cocktails made from vitamins, minerals and antioxidants enter the bloodstream directly via the vein and are therefore highly effective.",
+    "duration": "approx. 15 Minutes",
+    "effect": null,
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "infusionstherapie",
+            "text": "Infusion therapy"
+        }
+    ]
+}

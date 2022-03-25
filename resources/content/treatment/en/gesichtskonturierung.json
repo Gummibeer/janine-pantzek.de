@@ -1,0 +1,17 @@
+{
+    "headline": "Face contouring",
+    "text": "By injecting specially coordinated fillers, individual areas of the face can be specifically emphasized and highlighted.",
+    "duration": "Approx. 30 minutes",
+    "effect": "12 - 24 Months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluronic"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

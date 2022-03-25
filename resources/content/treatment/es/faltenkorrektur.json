@@ -1,0 +1,17 @@
+{
+    "headline": "Corrección de arrugas",
+    "text": "Varias opciones de tratamiento para simular arrugas con toxina botulínica, si se desea en combinación con inyecciones antiarrugas con ácido hialurónico.",
+    "duration": "Aprox. 30 minutos",
+    "effect": "Entre 3 y 6 meses",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hialurónico"
+        },
+        {
+            "url": "botox",
+            "text": "Bótox"
+        }
+    ]
+}

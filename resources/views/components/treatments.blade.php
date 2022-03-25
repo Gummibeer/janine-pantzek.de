@@ -9,16 +9,16 @@
                     </div>
                     <div class="col-6 px-4">
                         <dl>
-                            <dt>Behandlungsdauer</dt>
+                            <dt>@lang('Behandlungsdauer')</dt>
                             <dd>{{ $treatment['duration'] }}</dd>
 
                             @if($treatment['effect'])
-                            <dt>Wirkungsdauer</dt>
+                            <dt>@lang('Wirkungsdauer')</dt>
                             <dd>{{ $treatment['effect'] }}</dd>
                             @endif
 
-                            <dt>Downtime</dt>
-                            <dd>{{ $treatment['downtime'] ?? 'keine' }}</dd>
+                            <dt>@lang('Downtime')</dt>
+                            <dd>{{ $treatment['downtime'] ?? __('keine') }}</dd>
                         </dl>
                     </div>
                     @foreach($treatment['buttons'] as $button)

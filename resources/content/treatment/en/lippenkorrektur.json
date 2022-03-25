@@ -1,0 +1,17 @@
+{
+    "headline": "Lip correction",
+    "text": "With the targeted injection of fillers, the lips can be changed in shape and size as desired, lip wrinkles are minimized.",
+    "duration": "Approx. 30 minutes",
+    "effect": "6-12 months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluronic"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

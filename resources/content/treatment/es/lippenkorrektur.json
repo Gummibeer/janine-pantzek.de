@@ -1,0 +1,17 @@
+{
+    "headline": "Corrección de labios",
+    "text": "Con la inyección focalizada de rellenos, se puede cambiar la forma y tamaño de los labios según se desee, y se minimizan las arrugas de los labios.",
+    "duration": "Aprox. 30 minutos",
+    "effect": "6 a 12 meses",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hialurónico"
+        },
+        {
+            "url": "botox",
+            "text": "Bótox"
+        }
+    ]
+}

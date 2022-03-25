@@ -1,0 +1,13 @@
+{
+    "headline": "Botox against bruxism",
+    "text": "Targeted Botox treatment of the external masticatory muscle effectively reduces teeth grinding and protects your teeth.",
+    "duration": "15 - 20 mins",
+    "effect": "3-6 months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

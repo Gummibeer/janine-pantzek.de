@@ -1,0 +1,17 @@
+{
+    "headline": " Modelado del rostro",
+    "text": "Al inyectar rellenos especialmente coordinados, las áreas individuales de la cara se pueden enfatizar y resaltar específicamente.",
+    "duration": "Aprox. 30 minutos",
+    "effect": "De 12 a 24 meses",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hialurónico"
+        },
+        {
+            "url": "botox",
+            "text": "Bótox"
+        }
+    ]
+}

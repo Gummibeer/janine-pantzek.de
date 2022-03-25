@@ -1,0 +1,17 @@
+{
+    "headline": "Estiramiento facial en oferta",
+    "text": "Con la eficacia de un estiramiento facial, pero sin cirugía: se inyecta ácido hialurónico en zonas especiales para que la piel tenga un efecto inmediato defirmeza y frescura.",
+    "duration": "Aprox. 30 minutos",
+    "effect": "De 6 a 24 meses",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hialurónico"
+        },
+        {
+            "url": "botox",
+            "text": "Bótox"
+        }
+    ]
+}

@@ -10,7 +10,7 @@ Route::get('/404.html', function () {
 });
 
 Route::get('/{locale}', function (string $locale) {
-    if(in_array($locale, ['de', 'en'])) {
+    if(in_array($locale, ['de', 'en', 'es'])) {
         app()->setLocale($locale);
         return PageFactory::makeFromSheetName('static', "{$locale}/home");
     }

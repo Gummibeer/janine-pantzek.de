@@ -1,0 +1,17 @@
+{
+    "headline": "Resplandor facial en promoción",
+    "text": "El fino ácido hialurónico distribuido debajo de la piel crea un efecto inmediato en el rostro, el cuello y el escote: la piel luce fresca y joven.",
+    "duration": "Aprox. 30 minutos",
+    "effect": "6 meses",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hialurónico"
+        },
+        {
+            "url": "botox",
+            "text": "Bótox"
+        }
+    ]
+}

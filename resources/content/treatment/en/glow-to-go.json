@@ -1,0 +1,17 @@
+{
+    "headline": "Glow to go",
+    "text": "Fine hyaluronic acid distributed under the skin creates an immediate effect on the face, neck and décolleté: the skin glows fresh and youthful.",
+    "duration": "Approx. 30 minutes",
+    "effect": "6 months",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "Hyaluronic"
+        },
+        {
+            "url": "botox",
+            "text": "Botox"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "headline": "Terapia de infusión de \"Goteos intravenosos\"",
+    "text": "Los cócteles energéticos hechos de vitaminas, minerales y antioxidantes ingresan al torrente sanguíneo directamente a través de la vena y, por lo tanto, son altamente efectivos.",
+    "duration": "Aprox. 15 minutos",
+    "effect": null,
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "infusionstherapie",
+            "text": "Terapia de infusión"
+        }
+    ]
+}
