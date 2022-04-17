@@ -23,5 +23,6 @@
 </div>
 
 <script async defer src="{{ mix('js/app.js') }}" type="application/javascript"></script>
+<script async defer data-website-id="f27192b8-3924-46de-a7b7-7ac140a90d43" src="https://u.gummibeer.dev/umami.js" type="application/javascript"></script>
 </body>
 </html>
