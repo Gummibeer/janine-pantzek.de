@@ -27,6 +27,20 @@
                     </li>
                 @endforeach
             </ul>
+            <ul class="navbar-nav navbar-right">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+                        {{ \Illuminate\Support\Str::upper(app()->getLocale()) }}
+                    </a>
+                    <div class="dropdown-menu">
+                        @foreach(['de','en','es'] as $lang)
+                            <a class="dropdown-item" href="{{ url($lang) }}">
+                                {{ \Illuminate\Support\Str::upper($lang) }}
+                            </a>
+                        @endforeach
+                    </div>
+                </li>
+            </ul>
         </div>
     </nav>
 </header>
