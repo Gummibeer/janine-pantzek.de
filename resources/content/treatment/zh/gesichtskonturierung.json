@@ -1,0 +1,17 @@
+{
+    "headline": " 面部轮廓",
+    "text": " 注入特别协调的填充物，可以特别强调和突显脸部五官。",
+    "duration": "大约30分钟",
+    "effect": "12至24个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": " 玻尿酸"
+        },
+        {
+            "url": "botox",
+            "text": " 肉毒杆菌"
+        }
+    ]
+}

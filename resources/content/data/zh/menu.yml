@@ -1,0 +1,36 @@
+-
+  title: 主页
+  url: /
+-
+  title: 方法论
+  childs:
+    -
+      title: 透明质酸
+      url: hyaluron
+    -
+      title: Botox
+      url: botox
+    -
+      title: 提拉线
+      url: fadenlifting
+    -
+      title: Liquidlifting & MD Codes
+      url: liquidlifting
+-
+  title: 体形塑造
+  url: body-contouring
+-
+  title: 注射治疗
+  url: infusionstherapie
+-
+  title: 夜磨牙症
+  url: bruxismus
+-
+  title: 提供
+  url: angebot
+-
+  title: 对男性而言
+  url: fuer-den-mann
+-
+  title: 联系方式
+  url: kontakt

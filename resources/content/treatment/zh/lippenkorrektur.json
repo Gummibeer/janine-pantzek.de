@@ -1,0 +1,17 @@
+{
+    "headline": "唇部修复",
+    "text": " 针对性地注射填充物，可以根据需要改变嘴唇的形状和大小，最大限度地减少唇部皱纹。",
+    "duration": "大约30分钟",
+    "effect": "6至12个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "透明质酸"
+        },
+        {
+            "url": "botox",
+            "text": "肉毒杆菌"
+        }
+    ]
+}

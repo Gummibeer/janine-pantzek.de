@@ -1,0 +1,13 @@
+{
+    "headline": "输液疗法\"点滴\"",
+    "text": " 能量鸡尾酒由维生素、矿物质和抗氧化剂制成，可以通过静脉直接进入血液，并且非常有效。",
+    "duration": "大约15分钟",
+    "effect": null,
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "infusionstherapie",
+            "text": "注射治疗"
+        }
+    ]
+}

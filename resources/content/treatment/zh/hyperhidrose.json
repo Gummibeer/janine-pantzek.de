@@ -1,0 +1,13 @@
+{
+    "headline": " 多汗症",
+    "text": " 出汗过多和汗液分泌出现病理性障碍，注射肉毒杆菌素是一种可靠有效的治疗方法。",
+    "duration": "大约30分钟",
+    "effect": "6至12个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "botox",
+            "text": " 肉毒杆菌素"
+        }
+    ]
+}

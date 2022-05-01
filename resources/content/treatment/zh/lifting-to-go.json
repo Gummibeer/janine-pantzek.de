@@ -1,0 +1,17 @@
+{
+    "headline": "提拉",
+    "text": "它与提拉 一样有效，但完全无需手术：将透明质酸注射到特殊区域，皮肤立即看起来更紧致、焕然一新。",
+    "duration": "大约30分钟",
+    "effect": "6-24个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": "透明质酸"
+        },
+        {
+            "url": "botox",
+            "text": "肉毒杆菌"
+        }
+    ]
+}

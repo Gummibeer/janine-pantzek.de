@@ -1,0 +1,17 @@
+{
+    "headline": "焕发魅力",
+    "text": " 精细透明质酸分布在皮肤下，可以对面部、颈部和肩部产生立竿见影的效果：皮肤焕发清新年轻。",
+    "duration": "大约30分钟",
+    "effect": "6个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": " 玻尿酸"
+        },
+        {
+            "url": "botox",
+            "text": " 肉毒杆菌"
+        }
+    ]
+}

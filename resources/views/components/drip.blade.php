@@ -6,7 +6,7 @@
         </div>
 
         <div class="clearfix">
-            <strong>Inhaltsstoffe:</strong>
+            <strong>@lang('Inhaltsstoffe'):</strong>
             <ul class="m-0 list-inline">
                 @foreach($ingredients as $ingredient)
                     <li class="list-inline-item">{{ $ingredient }}</li>

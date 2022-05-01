@@ -33,7 +33,7 @@
                         {{ \Illuminate\Support\Str::upper(app()->getLocale()) }}
                     </a>
                     <div class="dropdown-menu">
-                        @foreach(config('app.locales') as $lang)
+                        @foreach(\Illuminate\Support\Arr::sort(config('app.locales')) as $lang)
                             <a class="dropdown-item" href="{{ url($lang) }}">
                                 {{ \Illuminate\Support\Str::upper($lang) }}
                             </a>

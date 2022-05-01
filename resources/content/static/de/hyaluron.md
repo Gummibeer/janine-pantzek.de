@@ -16,7 +16,7 @@ In meinem Institut habe ich mich auf verschiedene Methoden der Hautverjüngung m
 
 Es können sowohl erste kleine Knitterfältchen, als auch tiefere Falten (z.B. Nasolabialfalte) unterspritzt werden. Hyaluron ermöglicht eine gezielte Gesichtskonturierung sowie einen optischen Wangenknochenaufbau. Die Gesichtszüge wirken durch mehr Volumen wieder praller, frischer und jünger. Einhergehend verändert sich der Gesichtsausdruck von müde, abgespannt und traurig hin zu einem attraktiven, weiblicheren Ausdruck. Volumenbehandlungen der Lippen, als  auch feine Unebenheiten auf dem Nasenrücken lassen sich sanft modellieren.
 
-Angebot: **"Lifting to go"**: Hier  wird Hyaluronsäure an strategisch nachhaltigen Punkten des Gesichts injiziert, so dass die Haut sofort straffer und frischer aussieht. Effektiv wie ein Lifting, aber ganz ohne OP und Ausfall!
+Angebot: **"Lifting to go"**: Hier  wird Hyaluronsäure an strategisch nachhaltigen Punkten des Gesichts injiziert, so dass die Haut sofort straffer und frischer aussieht. Effektiv wie ein Lifting, aber ganz ohne OP und Ausfall!
 
 Angebot: **"Glow to go"**: Erzeugt einen positiven Soforteffekt an Gesicht, Hals und Dekolleté, in dem besonders feinflüssige Hyaluronsäure unterspritzt wird, die sich optimal unter der Haut verteilt. Die Folge: Ihre Haut strahlt sofort nach der Behandlung und erhält einen frischen, jugendlichen Glanz. 
 

@@ -1,0 +1,17 @@
+{
+    "headline": "修复",
+    "text": "肉毒杆菌毒素模拟皱纹可以用于 各种治疗选择，如果需要，可以结合皱纹注射透明质酸。",
+    "duration": "大约30分钟",
+    "effect": "3-6个月",
+    "downtime": null,
+    "buttons": [
+        {
+            "url": "hyaluron",
+            "text": " 玻尿酸"
+        },
+        {
+            "url": "botox",
+            "text": " 肉毒杆菌"
+        }
+    ]
+}

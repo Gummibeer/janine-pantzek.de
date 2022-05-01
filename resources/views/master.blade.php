@@ -7,8 +7,6 @@
     <title>@yield('title', (!request()->is('/') && isset($title)) ? sprintf('%s | %s', $title, config('app.name')): config('app.name'))</title>
 
     <link rel="stylesheet" href="{{ mix('css/app.css') }}" />
-
-    <link rel="sitemap" type="application/xml" href="{{ url('sitemap.xml') }}" title="Sitemap" />
 </head>
 <body id="body-{{ $slug }}">
 
