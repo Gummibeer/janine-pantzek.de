@@ -43,3 +43,7 @@ Este proceso de activación y limpieza metabólica solo puede tener éxito si el
 ### Relajación y desintoxicación con el equipo Chi machine
 
 En el Instituto Médico de Belleza y Salud de la Dra. Janine Pantzek, utilizamos la Chi machine. Es parte del tratamiento para complementar el efecto beneficioso del láser de baja intensidad. Como los primeros y únicos en usarla en Hamburgo, ofrecemos una terapia láser amigable y eficaz para la reducción de grasa en áreas problemáticas. Gracias a la Chi machine se puede lograr un efecto mucho más duradero. Este invento del médico japonés, Dr. Shizou Inoue, es un dispositivo médico, un entrenador físico y una herramienta de meditación, todo en uno. Relaja la espalda, activa el metabolismo y, por lo tanto, favorece la pérdida de peso. Con solo 15 minutos de balanceo siguiendo el curso natural de los movimientos, se logra un aumento de oxígenación en el cuerpo que, de otro modo, solo se puede conseguir con 45 minutos de caminata con un ritmo regular al aire libre. El cuerpo está ejercitado y purificado, la mente relajada y la energía vital activada y armonizada.
+
+### Erchonia Lasers Ltd
+
+En el Instituto Médico de Belleza y Cuidado de la Salud por el Dr. Janine Pantzek, se utilizan láseres de [Erchonia Corporation](https://www.erchonia.com).

@@ -43,3 +43,7 @@ This process of metabolic activation and cleansing can, of course, only succeed 
 ### Relax and detox with the Chi machine
 
 In the Medical Institute for Beauty and Health Care of Dr. Janine Pantzek, the Chi machine is used. The chi machine is a part of the treatment to support the positive effect of a treatment with the low-level light laser. As the first and only practice in Hamburg, we offer gentle and effective laser therapy for sustainable fat reduction in classic problem areas. In combination with the chi machine, even more lasting success can be achieved. Invented by Japanese physician, Dr. Shizou Inoue, this device is a medical device, fitness trainer and meditation aid all in one. It relaxes the back, activates the metabolism and thus supports weight loss. Just 15 minutes of swinging in the original form of the movements achieves an increase in oxygen in the body that is otherwise only measurable after 45 minutes of tight walking in the fresh air. The body is trained and purified, the mind relaxed and the life energy activated and harmonized.
+
+### Erchonia Lasers Ltd
+
+At the Medical Institute for Beauty and Health Care by Dr. Janine Pantzek, lasers from [Erchonia Corporation](https://www.erchonia.com) are used.

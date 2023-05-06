@@ -46,3 +46,8 @@ Dieser Prozess der Stoffwechsel-Aktivierung und Reinigung kann selbstverständli
 ### Entspannen und entschlacken mit der Chi-Maschine
 
 Im Medical Institute für Beauty und Health Care von Dr. Janine Pantzek wird die Chi-Maschine eingesetzt. Die Chi-Maschine ist Bestandteil der Behandlung, um den positiven Effekt einer Behandlung mit dem Low-Level-Light-Laser zu unterstützen. Als erste und einzige Praxis in Hamburg bieten wir eine sanfte wie wirkungsvolle Lasertherapie zur nachhaltigen Fettreduktion in den klassischen Problemzonen an. In Kombination mit der Chi-Maschine können dabei noch nachhaltigere Erfolge erzielt werden. Dieser vom japanischen Arzt Dr. Shizou Inoue erfundene Apparat ist Medizingerät, Fitnesstrainer und Meditationshilfe in einem. Er  entspannt den Rücken, aktiviert den Stoffwechsel und unterstützt somit die Gewichtsreduktion. Bereits 15 Minuten Schwingen in der Urform der Bewegungen erreicht eine Sauerstofferhöhung im Körper, die sonst erst nach 45 Minuten strammen Gehens an der frischen Luft messbar ist. Der Körper wird trainiert und entschlackt, der Geist entspannt und die Lebensenergie aktiviert und harmonisiert.
+
+
+### Erchonia Lasers Ltd
+
+Im Medical Institute für Beauty und Health Care von Dr. Janine Pantzek werden Laser von [Erchonia Corporation](https://www.erchonia.com) eingesetzt.
